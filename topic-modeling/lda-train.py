@@ -20,7 +20,7 @@ def training(title_to_train, num_topics):
   training_data = [d for d in training_data if d.strip()]
 
   # Setting output path ----
-  output_directory_path = path_to_proj + 'topic-modeling/output'
+  output_directory_path = path_to_proj + 'topic-modeling/output/' + title_to_train
   path_to_training_data           = output_directory_path + '/training.txt'
   path_to_formatted_training_data = output_directory_path + '/mallet.training'
   path_to_model                   = output_directory_path + '/mallet.model.' + str(num_topics)
@@ -50,7 +50,6 @@ def main():
   for num in num_topics: 
     print("Training model with " + str(num) + " topics")
     training(title_to_train, num)
-  print("Finished!")
 
 
 if __name__ == "__main__":

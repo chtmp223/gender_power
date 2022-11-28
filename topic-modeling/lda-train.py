@@ -3,18 +3,19 @@ import little_mallet_wrapper as lmw
 import pandas as pd
 import sys
 
+
 # Setting global variables ----
 path_to_mallet = '~/mallet/bin/mallet'
 path_to_proj = '../gender_power/'
-INPUT = "./topic-modeling/input/ovid.tsv"
+INPUT = "./topic-modeling/input/"
 
 
 def training(title_to_train, num_topics): 
   '''
   Train LDA model with given number of topics
   '''
-  # Preparing data ---
-  train_df = pd.read_csv(INPUT, sep='\t')
+  # Preparing training data ---
+  train_df = pd.read_csv(INPUT + title_to_train+ ".tsv", sep='\t')
   training_data = [lmw.process_string(t) for t in train_df['text'].tolist()]
   training_data = [d for d in training_data if d.strip()]
 
@@ -45,8 +46,7 @@ def training(title_to_train, num_topics):
 
 def main(): 
   title_to_train = sys.argv[1]
-  #num_topics = [20,30,50,100,200]
-  num_topics = [15]
+  num_topics = [5,10,15,20,30,50,100,200]
   for num in num_topics: 
     print("Training model with " + str(num) + " topics")
     training(title_to_train, num)

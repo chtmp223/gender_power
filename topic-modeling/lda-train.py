@@ -46,7 +46,8 @@ def training(title_to_train, num_topics):
 
 def main(): 
   title_to_train = sys.argv[1]
-  num_topics = [5,10,15,20,30,50,100,200]
+  #num_topics = [5,10,15,20,30,50,100,200]
+  num_topics = [10]
   for num in num_topics: 
     print("Training model with " + str(num) + " topics")
     training(title_to_train, num)

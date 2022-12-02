@@ -1,0 +1,933 @@
+,index,name,names,gender,total_agent,total_object,perc_agent
+1,499,Jupiter,"['Jupiter', 'Ammon', 'mighty Jupiter', 'Jupiter Ammon', 'horned Jupiter Ammon', 'Libyan Ammon']",he/him/his,76,21,0.7835051546
+2,605,Jove,"['Jove', 'Hector', 'Ajax', 'mighty Jove', 'brave Ajax', 'But Ajax , who had so often stood alone against Hector , against sword and flame , against Jove himself , could not stand against mere passion , and indignation conquered the unconquerable hero']",he/him/his,71,20,0.7802197802
+3,1482,the god,"['the god', 'The god']",he/him/his,99,12,0.8918918919
+5,519,Phoebus,"['Phoebus', 'Apollo', 'Phoebus Apollo']",he/him/his,69,8,0.8961038961
+6,1835,the boy,"['the boy', 'The boy']",he/him/his,69,25,0.7340425532
+8,941,Hercules,"['Hercules', 'mighty Hercules', 'brave Hercules', 'Tyrinthian Hercules']",he/him/his,58,7,0.8923076923
+9,1161,Achilles,"['Achilles', 'great Achilles', 'fierce Achilles', 'savage Achilles', 'mighty Achilles']",he/him/his,51,14,0.7846153846
+10,776,Perseus,['Perseus'],he/him/his,67,9,0.8815789474
+11,553,Phaethon,"['Phaethon', 'brave Phaethon', 'the unlucky Phaethon', 'PHAETHON']",he/him/his,48,4,0.9230769231
+14,1694,her father,"['her father', 'Her father']",he/him/his,34,11,0.7555555556
+16,1385,Vertumnus,['Vertumnus'],he/him/his,45,5,0.9
+19,6572,the king,"['the king', 'The king']",he/him/his,38,13,0.7450980392
+21,634,Cadmus,['Cadmus'],he/him/his,32,5,0.8648648649
+22,958,Theseus,"['Theseus', 'Great Theseus']",he/him/his,41,5,0.8913043478
+23,965,Minos,"['Minos', 'my Minos , who is scorned because of the bitter weight of old age , and no longer orders the kingdom in the way he did before']",he/him/his,36,7,0.8372093023
+24,974,Peleus,"['Peleus', 'the exiled Peleus']",he/him/his,37,4,0.9024390244
+25,1775,his father,"['his father', 'His father']",he/him/his,21,8,0.724137931
+26,1852,the father,"['the father', 'The father']",he/him/his,31,4,0.8857142857
+28,1321,Aeneas,"['Aeneas', 'Trojan', 'Trojan Aeneas', 'a weeping Aeneas , who was unsure of his future']",he/him/his,36,6,0.8571428571
+29,908,Tereus,"['Tereus', 'the unsuspecting Tereus']",he/him/his,30,7,0.8108108108
+34,2234,the hero,"['the hero', 'The hero']",he/him/his,24,5,0.8275862069
+37,5857,my father,"['my father', 'My father']",he/him/his,18,1,0.9473684211
+38,924,Jason,"['Jason', 'Jason of Pagasae']",he/him/his,21,5,0.8076923077
+39,1347,Achaemenides,['Achaemenides'],he/him/his,27,9,0.75
+40,2082,the lover,"['the lover', 'The lover']",he/him/his,26,8,0.7647058824
+41,514,Neptune,['Neptune'],he/him/his,33,3,0.9166666667
+42,1773,his son,"['his son', 'His son']",he/him/his,17,10,0.6296296296
+44,5872,her husband,['her husband'],he/him/his,7,10,0.4117647059
+48,546,Atlas,"['Atlas', 'Great Atlas', 'mighty Atlas']",he/him/his,18,3,0.8571428571
+49,4411,The Berecyntian king,['The Berecyntian king'],he/him/his,25,4,0.8620689655
+50,1271,Ulysses,"['Ulysses', 'The Dulichian', 'Dulichian Ulysses', 'victorious Ulysses']",he/him/his,21,8,0.724137931
+52,598,Cycnus,['Cycnus'],he/him/his,14,6,0.7
+53,1006,Meleager,['Meleager'],he/him/his,14,1,0.9333333333
+54,1162,Ceyx,"['Ceyx', 'King Ceyx']",he/him/his,20,3,0.8695652174
+55,1328,Polyphemus,"['Polyphemus', 'grim Polyphemus']",he/him/his,18,1,0.9473684211
+60,5875,the man,"['the man', 'The man']",he/him/his,14,8,0.6363636364
+63,1014,Caeneus,"['Caeneus', 'the Thessalian', 'Thessalian Caeneus']",he/him/his,14,8,0.6363636364
+64,1426,Cipus,['Cipus'],he/him/his,23,2,0.92
+67,819,Dorylas,['Dorylas'],he/him/his,16,5,0.7619047619
+68,879,Cinyras,['Cinyras'],he/him/his,9,9,0.5
+69,1145,Hippomenes,"['Hippomenes', 'Poor Hippomenes']",he/him/his,17,8,0.68
+72,791,Phineus,"['Phineus', 'most cowardly Phineus']",he/him/his,21,1,0.9545454545
+77,1255,Latreus,['Latreus'],he/him/his,13,4,0.7647058824
+78,5901,Girl,"['Girl', 'girl']",he/him/his,12,9,0.5714285714
+80,497,Boreas,"['Boreas', 'Chill Boreas']",he/him/his,30,1,0.9677419355
+81,2019,a boy,"['a boy', 'A BOY']",he/him/his,8,3,0.7272727273
+82,5897,a man,['a man'],he/him/his,2,4,0.3333333333
+86,1027,Nestor,"['Nestor', 'King Nestor of Pylos']",he/him/his,15,4,0.7894736842
+87,7812,the poet,"['the poet', 'The poet']",he/him/his,8,5,0.6153846154
+89,1119,Orpheus,"['Orpheus', 'Thracian Orpheus']",he/him/his,14,4,0.7777777778
+90,1461,a god,['a god'],he/him/his,20,2,0.9090909091
+91,509,Augustus,['Augustus'],he/him/his,13,2,0.8666666667
+92,545,Mercury,"['Mercury', 'Mercury Atlantiades', 'Atlantiades']",he/him/his,24,1,0.96
+93,1842,the youth,['the youth'],he/him/his,8,7,0.5333333333
+96,972,Aeacus,['Aeacus'],he/him/his,8,3,0.7272727273
+99,8996,Alemon ’s son,['Alemon ’s son'],he/him/his,16,3,0.8421052632
+100,1581,the king of the gods,"['the king of the gods', 'The king of the gods']",he/him/his,17,2,0.8947368421
+103,692,Pentheus,"['Pentheus', 'punished Pentheus']",he/him/his,17,5,0.7727272727
+105,536,Inachus,"['Inachus', 'Old Inachus']",he/him/his,13,3,0.8125
+106,542,Argus,['Argus'],he/him/his,17,5,0.7727272727
+107,2079,the Raven,['the Raven'],he/him/his,13,3,0.8125
+110,1808,your father,"['your father', 'Your father']",he/him/his,4,3,0.5714285714
+111,973,Telamon,['Telamon'],he/him/his,9,2,0.8181818182
+114,957,Aegeus,['Aegeus'],he/him/his,5,0,1
+115,508,Caesar,['Caesar'],he/him/his,5,2,0.7142857143
+116,511,Aeolus,"['Aeolus', 'King Aeolus']",he/him/his,6,0,1
+117,1856,her grandson,['her grandson'],he/him/his,12,2,0.8571428571
+118,6107,the old man,"['the old man', 'The old man']",he/him/his,10,3,0.7692307692
+120,1057,Erysichthon,['Erysichthon'],he/him/his,13,2,0.8666666667
+121,3843,the centaur,"['the centaur', 'The centaur']",he/him/his,13,0,1
+123,1537,the all - powerful father of the gods,['the all - powerful father of the gods'],he/him/his,20,1,0.9523809524
+128,1181,Priam,"['Priam', 'old Priam']",he/him/his,3,3,0.5
+129,8276,his cowardly friend,['his cowardly friend'],he/him/his,8,8,0.5
+134,3158,the Thracian king,"['the Thracian king', 'The Thracian king']",he/him/his,11,2,0.8461538462
+135,6993,my brother,['my brother'],he/him/his,5,8,0.3846153846
+136,928,Aeson,['Aeson'],he/him/his,3,3,0.5
+139,4428,The aged judge,['The aged judge'],he/him/his,8,3,0.7272727273
+142,549,Pan,['Pan'],he/him/his,15,1,0.9375
+145,794,Athis,['Athis'],he/him/his,4,1,0.8
+147,7271,Europa ’s son,['Europa ’s son'],he/him/his,10,0,1
+150,1350,Eurylochus,['Eurylochus'],he/him/his,12,4,0.75
+152,6106,Jupiter ’s son,['Jupiter ’s son'],he/him/his,7,3,0.7
+153,635,Mars,"['Mars', 'mighty Mars']",he/him/his,8,1,0.8888888889
+154,2222,the son of Agenor,"['the son of Agenor', 'The son of Agenor']",he/him/his,15,2,0.8823529412
+156,3301,Aeson ’s son,['Aeson ’s son'],he/him/his,5,4,0.5555555556
+159,7883,this one,['this one'],he/him/his,8,4,0.6666666667
+160,4706,the son,['the son'],he/him/his,7,3,0.7
+164,6039,her son,['her son'],he/him/his,1,2,0.3333333333
+165,623,Lucifer,['Lucifer'],he/him/his,6,2,0.75
+167,2366,the child,"['the child', 'The child']",he/him/his,7,6,0.5384615385
+168,731,Pyramus,['Pyramus'],he/him/his,16,1,0.9411764706
+169,6636,the one man,['the one man'],he/him/his,3,5,0.375
+172,1135,Pygmalion,['Pygmalion'],he/him/his,16,0,1
+173,1160,Thetis,['Thetis'],he/him/his,9,4,0.6923076923
+174,1182,Aesacus,['Aesacus'],he/him/his,10,0,1
+176,507,Lycaon,['Lycaon'],he/him/his,10,0,1
+179,606,Arcas,['Arcas'],he/him/his,8,2,0.8
+180,2300,Autonoë ’s brave son,['Autonoë ’s brave son'],he/him/his,8,1,0.8888888889
+183,2896,the river - god,"['the river - god', 'The river - god']",he/him/his,14,1,0.9333333333
+186,1330,Acis,['Acis'],he/him/his,3,4,0.4285714286
+187,5997,a father,['a father'],he/him/his,1,1,0.5
+188,568,Vulcan,['Vulcan'],he/him/his,5,1,0.8333333333
+190,683,Tiresias,"['Tiresias', 'learned Tiresias']",he/him/his,10,4,0.7142857143
+191,792,Rhoetus,['Rhoetus'],he/him/his,14,2,0.875
+192,817,Pelates,"['Pelates', 'Pelates of Pella']",he/him/his,7,4,0.6363636364
+196,4921,the son of Telamon,"['the son of Telamon', 'The son of Telamon']",he/him/his,12,0,1
+198,638,Actaeon,['Actaeon'],he/him/his,2,1,0.6666666667
+201,799,Eurytus,"['Eurytus', 'King Eurytus']",he/him/his,3,1,0.75
+202,888,Macareus,"['Macareus', 'Macareus of Neritos']",he/him/his,11,1,0.9166666667
+203,912,Itys,['Itys'],he/him/his,2,3,0.4
+204,3469,the son of the Nereid,['the son of the Nereid'],he/him/his,5,3,0.625
+206,7968,the son of Aeacus,"['the son of Aeacus', 'The son of Aeacus']",he/him/his,10,2,0.8333333333
+207,1173,Morpheus,['Morpheus'],he/him/his,11,1,0.9166666667
+208,1221,Petraeus,['Petraeus'],he/him/his,8,1,0.8888888889
+210,526,Amor,['Amor'],he/him/his,12,0,1
+211,550,Cyllenian Mercury,"['Cyllenian Mercury', 'Mercury', 'Peace - loving Cyllenian Mercury']",he/him/his,8,0,1
+212,551,Nile,"['Nile', 'But Nileus who falsely claimed that he was born of the Nile with its seven mouths', 'Nileus']",he/him/his,4,2,0.6666666667
+213,600,Sol,"['Sol', 'great Sol', 'shining Sol', 'Bright Sol']",he/him/his,6,2,0.75
+218,906,Marsyas,['Marsyas'],he/him/his,5,1,0.8333333333
+219,1005,Calydon,"['Calydon', 'Oeneus', 'King Oeneus of Calydon', 'Noble Calydon']",he/him/his,5,0,1
+220,1011,Pirithoüs,['Pirithoüs'],he/him/his,3,2,0.6
+221,1048,Acheloüs,['Acheloüs'],he/him/his,4,2,0.6666666667
+225,1270,Agamemnon,['Agamemnon'],he/him/his,9,1,0.9
+226,1367,Acmon,"['Acmon', 'Acmon of Pleuron']",he/him/his,5,1,0.8333333333
+227,8936,"a youth , born of humble stock","['a youth , born of humble stock']",he/him/his,9,0,1
+229,1883,her brother,['her brother'],he/him/his,2,2,0.5
+232,678,Typhoeus,['Typhoeus'],he/him/his,7,2,0.7777777778
+233,2439,"an unarmed boy , who takes no pleasure in fighting , or weapons , or the use of horses","['an unarmed boy , who takes no pleasure in fighting , or weapons , or the use of horses']",he/him/his,1,6,0.1428571429
+234,717,Lyaeus,['Lyaeus'],he/him/his,3,5,0.375
+236,898,Ismenus,['Ismenus'],he/him/his,6,1,0.8571428571
+237,1029,Ancaeus,"['Ancaeus', 'Ancaeus of Arcady']",he/him/his,7,1,0.875
+238,1074,Eurystheus,['Eurystheus'],he/him/his,4,2,0.6666666667
+239,1077,Jupiter,"['Jupiter', 'Saturnian Jupiter']",he/him/his,6,0,1
+241,4543,The star - born husband,['The star - born husband'],he/him/his,8,2,0.8
+242,1555,their king,['their king'],he/him/his,5,1,0.8333333333
+243,1607,one man,"['one man', 'One man']",he/him/his,2,2,0.5
+247,2335,her lover,"['her lover', 'Her lover']",he/him/his,2,5,0.2857142857
+248,685,Narcissus,['Narcissus'],he/him/his,8,2,0.8
+249,694,Acrisius,['Acrisius'],he/him/his,8,2,0.8
+252,796,Phorbas,"['Phorbas', 'Phorbas of Syene']",he/him/his,8,0,1
+253,816,Pedasus,['Pedasus'],he/him/his,9,1,0.9
+254,6772,the informant,['the informant'],he/him/his,2,4,0.3333333333
+255,901,Alphenor,['Alphenor'],he/him/his,5,1,0.8333333333
+260,1143,Adonis,['Adonis'],he/him/his,4,3,0.5714285714
+261,1152,Midas,"['Midas', 'King Midas']",he/him/his,5,2,0.7142857143
+264,1392,Romulus,['Romulus'],he/him/his,6,1,0.8571428571
+269,2424,the seer,['the seer'],he/him/his,0,3,0
+270,2450,a man of Tyrrhenian stock,['a man of Tyrrhenian stock'],he/him/his,1,1,0.5
+272,759,Cerberus,['Cerberus'],he/him/his,4,2,0.6666666667
+273,763,Ixion,['Ixion'],he/him/his,2,0,1
+276,6665,the young man,"['the young man', 'The young man']",he/him/his,1,2,0.3333333333
+278,942,Alcidamas,['Alcidamas'],he/him/his,6,1,0.8571428571
+280,1030,Mopsus,['Mopsus'],he/him/his,6,0,1
+281,7557,the wretched man,['the wretched man'],he/him/his,6,0,1
+282,1064,Nessus,['Nessus'],he/him/his,5,1,0.8333333333
+284,1158,Jupiter,"['Jupiter', 'Jupiter the Thunderer']",he/him/his,4,0,1
+285,4657,her Ceyx,['her Ceyx'],he/him/his,3,5,0.375
+287,1273,Jupiter,"['Jupiter', 'Lofty Jupiter']",he/him/his,8,0,1
+290,1363,Venulus,['Venulus'],he/him/his,10,1,0.9090909091
+291,1684,the Delian god,"['the Delian god', 'The Delian god']",he/him/his,10,1,0.9090909091
+292,1972,Phaethon ’s father,['Phaethon ’s father'],he/him/his,4,0,1
+293,616,Aesculapius,['Aesculapius'],he/him/his,2,1,0.6666666667
+295,2515,this man,['this man'],he/him/his,1,6,0.1428571429
+296,6252,the priest,"['the priest', 'The priest']",he/him/his,9,1,0.9
+298,6319,a child born of Hermes,['a child born of Hermes'],he/him/his,5,1,0.8333333333
+303,1023,Lelex,['Lelex'],he/him/his,9,1,0.9
+304,3865,an enemy,['an enemy'],he/him/his,5,1,0.8333333333
+306,8664,a new inhabitant of the sea,['a new inhabitant of the sea'],he/him/his,4,0,1
+308,1352,Picus,['Picus'],he/him/his,4,0,1
+310,5789,friend,"['friend', 'Friend']",he/him/his,3,2,0.6
+311,1685,Venus ’s son,['Venus ’s son'],he/him/his,10,1,0.9090909091
+315,2286,Another,"['Another', 'another']",he/him/his,10,1,0.9090909091
+316,679,Cyclops,"['Cyclops', 'the Cyclops', 'savage Cyclops']",he/him/his,5,1,0.8333333333
+317,695,Athamas,"['Athamas', 'King Athamas']",he/him/his,2,1,0.6666666667
+318,2480,Lycabas the most audacious of them all,['Lycabas the most audacious of them all'],he/him/his,6,3,0.6666666667
+319,6576,his enemy,['his enemy'],he/him/his,1,1,0.5
+320,6653,The victorious descendant of Abas,['The victorious descendant of Abas'],he/him/his,6,0,1
+323,907,Pelops,['Pelops'],he/him/his,0,2,0
+326,983,Laelaps,['Laelaps'],he/him/his,3,2,0.6
+327,3564,a peace - loving conqueror,['a peace - loving conqueror'],he/him/his,3,0,1
+328,991,Daedalus,['Daedalus'],he/him/his,4,1,0.8
+330,4661,my poor husband,['my poor husband'],he/him/his,8,0,1
+331,9165,"a man here who shall be king , unless you drive him from the city","['a man here who shall be king , unless you drive him from the city']",he/him/his,5,1,0.8333333333
+333,505,Nereus,['Nereus'],he/him/his,4,1,0.8
+336,522,Cupid,"['Cupid', 'winged Cupid']",he/him/his,2,0,1
+338,633,Agenor,['Agenor'],he/him/his,2,0,1
+339,637,Echion,['Echion'],he/him/his,2,0,1
+344,6431,her uncle,['her uncle'],he/him/his,4,1,0.8
+345,6480,the victor,"['the victor', 'The victor']",he/him/his,2,1,0.6666666667
+346,6743,foul - mouthed boy,['foul - mouthed boy'],he/him/his,4,1,0.8
+348,994,Icarus,['Icarus'],he/him/his,0,2,0
+350,3944,this child,['this child'],he/him/his,7,1,0.875
+352,1163,Daedalion,['Daedalion'],he/him/his,1,4,0.2
+353,1204,Gryneus,['Gryneus'],he/him/his,3,2,0.6
+356,1401,Numa,['Numa'],he/him/his,6,0,1
+357,5694,the Epidaurian,['the Epidaurian'],he/him/his,6,1,0.8571428571
+358,500,Saturn,['Saturn'],he/him/his,1,1,0.5
+359,6046,their brother,['their brother'],he/him/his,4,0,1
+362,2341,The infant Bacchus,['The infant Bacchus'],he/him/his,0,4,0
+363,704,Lycabas,['Lycabas'],he/him/his,4,0,1
+365,758,Dis,"['Dis', 'black Dis']",he/him/his,3,1,0.75
+366,847,Dread Pyreneus,"['Dread Pyreneus', 'Pyreneus']",he/him/his,6,1,0.8571428571
+368,7008,the son of Aeson,['the son of Aeson'],he/him/his,5,1,0.8333333333
+369,933,Husband,['Husband'],he/him/his,2,0,1
+372,3428,a husband,['a husband'],he/him/his,1,1,0.5
+377,1155,Father,['Father'],he/him/his,5,1,0.8333333333
+379,4517,Oetean King Ceyx,['Oetean King Ceyx'],he/him/his,2,2,0.5
+380,4556,The captain,"['The captain', 'the captain']",he/him/his,6,0,1
+383,1277,the Ithacan,['the Ithacan'],he/him/his,4,0,1
+384,1360,Turnus,['Turnus'],he/him/his,7,0,1
+386,1422,Hippolytus,['Hippolytus'],he/him/his,3,0,1
+388,1777,a shepherd,['a shepherd'],he/him/his,2,0,1
+389,554,Merops,['Merops'],he/him/his,2,0,1
+390,1830,Clymene ’s son,['Clymene ’s son'],he/him/his,3,0,1
+393,2049,The garrulous Crow,['The garrulous Crow'],he/him/his,4,0,1
+397,6244,the unhappy man,['the unhappy man'],he/him/his,3,0,1
+398,6289,"Sol prisoner , who rules all the stars with his light","['Sol prisoner , who rules all the stars with his light']",he/him/his,3,1,0.75
+399,775,Abas,['Abas'],he/him/his,2,0,1
+402,6589,The grandson of Acrisius,['The grandson of Acrisius'],he/him/his,3,0,1
+403,6602,One very old man,['One very old man'],he/him/his,5,1,0.8333333333
+405,6697,the king of the dark,['the king of the dark'],he/him/his,6,0,1
+406,6727,the son of Saturn,"['the son of Saturn', 'The son of Saturn']",he/him/his,7,0,1
+411,3466,the grandson of Aeolus,['the grandson of Aeolus'],he/him/his,5,0,1
+412,987,Nisus,"['Nisus', 'King Nisus']",he/him/his,2,0,1
+421,1259,Tlepolemus,['Tlepolemus'],he/him/his,1,2,0.3333333333
+422,1284,Teucer,['Teucer'],he/him/his,4,0,1
+424,8655,a youth,['a youth'],he/him/his,1,0,1
+426,5437,The founder of the Roman city,['The founder of the Roman city'],he/him/his,4,1,0.8
+429,1652,the king of the oceans,['the king of the oceans'],he/him/his,2,0,1
+432,566,Scorpio,['Scorpio'],he/him/his,1,0,1
+435,6062,my husband,['my husband'],he/him/his,0,2,0
+436,608,Corvus,['Corvus'],he/him/his,0,1,0
+438,2166,her stern father,['her stern father'],he/him/his,3,2,0.6
+440,2200,Agenor ’s son,['Agenor ’s son'],he/him/his,3,1,0.75
+444,709,Medon,['Medon'],he/him/his,2,0,1
+445,726,Silenus,['Silenus'],he/him/his,0,1,0
+448,838,Astyages,['Astyages'],he/him/his,4,1,0.8
+449,2771,That fierce man,['That fierce man'],he/him/his,5,0,1
+454,7017,the Haemonian hero,['the Haemonian hero'],he/him/his,2,1,0.6666666667
+457,1054,Hero,['Hero'],he/him/his,3,2,0.6
+460,1098,Pallas,"['Pallas', 'the Titan Pallas', 'Titan']",he/him/his,1,1,0.5
+461,7783,the poet of Rhodope,"['the poet of Rhodope', 'The poet of Rhodope']",he/him/his,4,0,1
+462,7894,the dying boy,['the dying boy'],he/him/his,0,1,0
+463,1156,Tmolus,"['Tmolus', 'sacred Tmolus', 'Mount Tmolus']",he/him/his,1,1,0.5
+467,271,Troy,"['Troy', 'perfidious Troy']",he/him/his,2,0,1
+469,1278,Rhesus,['Rhesus'],he/him/his,0,1,0
+472,8533,The Thracian,['The Thracian'],he/him/his,5,0,1
+473,1541,Saturn ’s son,['Saturn ’s son'],he/him/his,4,0,1
+476,516,Deucalion,['Deucalion'],he/him/his,3,0,1
+478,5893,The archer god,['The archer god'],he/him/his,4,0,1
+481,552,Epaphus,['Epaphus'],he/him/his,2,0,1
+482,556,Mulciber,['Mulciber'],he/him/his,4,0,1
+484,570,Fortune,['Fortune'],he/him/his,3,0,1
+488,2270,no man,['no man'],he/him/his,3,0,1
+489,2369,the son of Cephisus,['the son of Cephisus'],he/him/his,2,3,0.4
+490,2421,the son of Echion,"['the son of Echion', 'The son of Echion']",he/him/his,2,1,0.6666666667
+495,756,Salmacis,['Salmacis'],he/him/his,1,2,0.3333333333
+497,6526,the descendant of Inachus,['the descendant of Inachus'],he/him/his,2,2,0.5
+498,785,Cepheus,['Cepheus'],he/him/his,5,0,1
+499,833,Thesculus,['Thesculus'],he/him/his,1,2,0.3333333333
+500,834,Ampyx,['Ampyx'],he/him/his,2,0,1
+502,851,Delian Apollo,"['Delian Apollo', 'Apollo']",he/him/his,4,1,0.8
+506,6810,The barbarian,['The barbarian'],he/him/his,3,1,0.75
+517,1031,Amphiaraüs,['Amphiaraüs'],he/him/his,1,1,0.5
+518,7443,The descendant of Mars,['The descendant of Mars'],he/him/his,4,0,1
+521,7635,the Tirynthian hero,['the Tirynthian hero'],he/him/his,2,0,1
+526,4175,her sire,['her sire'],he/him/his,2,0,1
+529,7972,the Carpathian seer,['the Carpathian seer'],he/him/his,3,0,1
+530,4803,The wounded man,['The wounded man'],he/him/his,4,0,1
+531,1210,Dryas,['Dryas'],he/him/his,0,2,0
+532,1220,Aphidas,['Aphidas'],he/him/his,1,0,1
+533,1239,Phaeocomes,['Phaeocomes'],he/him/his,4,0,1
+534,1264,Sminthean Apollo,"['Sminthean Apollo', 'Apollo']",he/him/his,2,0,1
+535,1279,Dolon,['Dolon'],he/him/his,1,2,0.3333333333
+537,4954,my partner,['my partner'],he/him/his,3,0,1
+538,4998,"that same Achilles who has ruined Troy and made me childless , who has destroyed so many of your brothers","['that same Achilles who has ruined Troy and made me childless , who has destroyed so many of your brothers']",he/him/his,2,1,0.6666666667
+539,1322,Anius,['Anius'],he/him/his,3,1,0.75
+541,1349,Antiphates,['Antiphates'],he/him/his,1,1,0.5
+544,9110,Whoever,['Whoever'],he/him/his,3,0,1
+545,5589,the Amazon ’s son,['the Amazon ’s son'],he/him/his,1,1,0.5
+546,5601,the Tyrrhenian seer,['the Tyrrhenian seer'],he/him/his,5,0,1
+549,1594,the sea - god,['the sea - god'],he/him/his,4,0,1
+552,5963,my son,['my son'],he/him/his,1,0,1
+553,574,the Bears,"['the Bears', 'the Great and Little Bears']",he/him/his,0,1,0
+556,1933,your brother,['your brother'],he/him/his,1,0,1
+560,6098,"one old man , well known in that country , whom they called Battus","['one old man , well known in that country , whom they called Battus']",he/him/his,1,2,0.3333333333
+561,2118,The god with the caduceus,['The god with the caduceus'],he/him/his,4,0,1
+565,647,Melampus,['Melampus'],he/him/his,5,0,1
+567,2368,the augur,"['the augur', 'The augur']",he/him/his,1,0,1
+568,700,Libys,['Libys'],he/him/his,4,0,1
+570,6223,someone else,"['someone else', 'Someone else']",he/him/his,3,1,0.75
+574,754,Hermaphroditus,['Hermaphroditus'],he/him/his,4,0,1
+575,6365,That son of my rival,['That son of my rival'],he/him/his,4,0,1
+576,761,Tantalus,['Tantalus'],he/him/his,3,0,1
+579,770,Learchus,['Learchus'],he/him/his,0,1,0
+581,2716,the young hero,['the young hero'],he/him/his,0,1,0
+584,818,Corythus,['Corythus'],he/him/his,1,0,1
+585,820,Halcyoneus of Bactria,['Halcyoneus of Bactria'],he/him/his,2,0,1
+587,831,Molpeus,['Molpeus'],he/him/his,1,2,0.3333333333
+590,871,Triptolemus,['Triptolemus'],he/him/his,0,2,0
+593,6889,The last son,['The last son'],he/him/his,3,0,1
+594,6917,one of the men of that country,['one of the men of that country'],he/him/his,1,2,0.3333333333
+595,3070,Latona ’s son,['Latona ’s son'],he/him/his,3,0,1
+603,7093,"the woolly creature , worn out by innumerable years","['the woolly creature , worn out by innumerable years']",he/him/his,0,1,0
+608,1035,Enaesimus,['Enaesimus'],he/him/his,2,0,1
+611,1051,Pittheus,['Pittheus'],he/him/his,1,0,1
+613,7546,a young man,['a young man'],he/him/his,1,1,0.5
+619,1125,Olenos,['Olenos'],he/him/his,2,0,1
+620,7823,the winner,['the winner'],he/him/his,1,0,1
+621,1130,Hyacinthus,['Hyacinthus'],he/him/his,0,1,0
+625,1191,Rumour,['Rumour'],he/him/his,3,0,1
+631,1333,Aetna,"['Aetna', 'Sicilian Mount Aetna']",he/him/his,2,1,0.6666666667
+635,8967,your deserving grandson,['your deserving grandson'],he/him/his,0,2,0
+636,1396,Jupiter,"['Jupiter', 'Omnipotent Jupiter']",he/him/his,2,0,1
+637,5471,the oxen,['the oxen'],he/him/his,1,0,1
+638,5557,"one , born of the blood of Iülus","['one , born of the blood of Iülus']",he/him/his,1,1,0.5
+639,5751,This descendant of yours,['This descendant of yours'],he/him/his,3,0,1
+641,498,Prometheus,['Prometheus'],he/him/his,2,0,1
+642,1559,the man who committed such actions,['the man who committed such actions'],he/him/his,0,1,0
+651,2254,The Sidonian wanderer,['The Sidonian wanderer'],he/him/his,2,0,1
+653,2290,Cadmus ’s grandson,['Cadmus ’s grandson'],he/him/his,1,0,1
+657,699,Dictys,['Dictys'],he/him/his,3,0,1
+659,707,Aethalion,['Aethalion'],he/him/his,2,0,1
+660,711,the Bacchantes,"['the Bacchantes', 'Bacchantes']",he/him/his,1,0,1
+663,2585,the informer,['the informer'],he/him/his,0,1,0
+664,745,Hyperion,['Hyperion'],he/him/his,1,0,1
+667,2741,the man who did seek it,['the man who did seek it'],he/him/his,3,0,1
+671,822,Clanis,['Clanis'],he/him/his,0,1,0
+674,848,Mnemonides,['Mnemonides'],he/him/his,1,1,0.5
+675,6693,a wrestler,['a wrestler'],he/him/his,3,0,1
+676,2834,Ceres ’s son,['Ceres ’s son'],he/him/his,0,2,0
+677,83,Elis,['Elis'],he/him/his,1,0,1
+679,6848,the Ocean god,['the Ocean god'],he/him/his,0,1,0
+685,3267,the thief,['the thief'],he/him/his,2,0,1
+687,7067,the shadowy king,['the shadowy king'],he/him/his,0,1,0
+689,948,Menephron,['Menephron'],he/him/his,1,0,1
+690,963,Sciron,['Sciron'],he/him/his,0,1,0
+695,1004,King Cocalus,['King Cocalus'],he/him/his,2,0,1
+696,1013,Toxeus,['Toxeus'],he/him/his,0,1,0
+700,7484,the greatest of heroes,['the greatest of heroes'],he/him/his,2,0,1
+703,7555,Triopas ’s son,['Triopas ’s son'],he/him/his,2,0,1
+704,3768,a fisherman,['a fisherman'],he/him/his,1,0,1
+705,1065,Alcides,['Alcides'],he/him/his,1,1,0.5
+706,1069,fierce Antaeus,['fierce Antaeus'],he/him/his,0,2,0
+709,1086,Andraemon,['Andraemon'],he/him/his,2,0,1
+713,7696,Maeander ’s grandson,['Maeander ’s grandson'],he/him/his,1,0,1
+714,7726,a man named Ligdus,['a man named Ligdus'],he/him/his,0,1,0
+715,1129,Phrygian Ganymede,"['Phrygian Ganymede', 'Ganymede']",he/him/his,0,1,0
+716,95,Sparta,['Sparta'],he/him/his,1,0,1
+718,7897,my hero,"['my hero', 'My hero']",he/him/his,2,0,1
+719,7898,the poet of Thrace,['the poet of Thrace'],he/him/his,1,1,0.5
+722,4510,Peleus ’s herdsman,['Peleus ’s herdsman'],he/him/his,0,1,0
+723,4512,the Trachinian king,['the Trachinian king'],he/him/his,2,0,1
+724,4540,The infamous Phorbas,['The infamous Phorbas'],he/him/his,3,0,1
+725,1177,Thaumas,['Thaumas'],he/him/his,1,0,1
+727,4686,Hector ’s brother,['Hector ’s brother'],he/him/his,1,0,1
+728,4721,son of Thestor,['son of Thestor'],he/him/his,3,0,1
+729,4765,the Greek hero,['the Greek hero'],he/him/his,1,0,1
+730,1209,Euagrus,['Euagrus'],he/him/his,1,1,0.5
+731,1213,Mermeros,['Mermeros'],he/him/his,1,0,1
+733,4880,the Phylleian youth,['the Phylleian youth'],he/him/his,0,1,0
+734,4922,Laërtes ’s son,['Laërtes ’s son'],he/him/his,1,0,1
+735,8239,that man,['that man'],he/him/his,0,2,0
+736,1274,Palamades,"['Palamades', 'luckless Palamades']",he/him/his,3,1,0.75
+738,8361,Telamon ’s son,['Telamon ’s son'],he/him/his,1,0,1
+739,4959,the lesser Ajax,['the lesser Ajax'],he/him/his,2,0,1
+741,8491,the impious king of Thrace,['the impious king of Thrace'],he/him/his,2,0,1
+742,1315,Neoptolemus,['Neoptolemus'],he/him/his,1,0,1
+744,5195,your dear father,['your dear father'],he/him/his,0,1,0
+747,1374,Silvius,['Silvius'],he/him/his,2,1,0.6666666667
+748,1379,Tiberinus,['Tiberinus'],he/him/his,1,0,1
+749,1380,Acrota,['Acrota'],he/him/his,2,0,1
+750,8913,"brave Aventinus , who lies buried on the very hill where he reigned , and has given his name to it , the Aventine hill","['brave Aventinus , who lies buried on the very hill where he reigned , and has given his name to it , the Aventine hill']",he/him/his,1,0,1
+752,1391,old Numitor,['old Numitor'],he/him/his,1,0,1
+758,502,virgin Astraea,['virgin Astraea'],he/him/his,2,0,1
+765,82,Delphi,['Delphi'],he/him/his,0,1,0
+768,541,Shame,['Shame'],he/him/his,3,0,1
+770,558,Aegaeon,['Aegaeon'],he/him/his,2,0,1
+772,5985,the lord of mighty Olympus,['the lord of mighty Olympus'],he/him/his,1,0,1
+773,578,the Muses,['the Muses'],he/him/his,1,0,1
+775,585,golden Lycormas,"['golden Lycormas', 'Lycormas']",he/him/his,1,0,1
+776,591,Caÿster,['Caÿster'],he/him/his,1,0,1
+777,1912,the king of the underworld,['the king of the underworld'],he/him/his,0,1,0
+782,2046,that bird of Phoebus,['that bird of Phoebus'],he/him/his,2,0,1
+784,2057,a baby boy with a snake stretched out next to him,['a baby boy with a snake stretched out next to him'],he/him/his,0,1,0
+786,2196,Europa ’s father,['Europa ’s father'],he/him/his,2,0,1
+789,2231,the conqueror,['the conqueror'],he/him/his,1,0,1
+792,663,Spartan,['Spartan'],he/him/his,3,0,1
+794,2362,the river - god Cephisus,['the river - god Cephisus'],he/him/his,1,0,1
+797,701,Melanthus,['Melanthus'],he/him/his,1,0,1
+800,2581,one of the gods,['one of the gods'],he/him/his,1,1,0.5
+801,750,the Curetes,"['the Curetes', 'the Aetolian Curetes']",he/him/his,0,1,0
+804,760,Tityos,['Tityos'],he/him/his,2,0,1
+805,764,the Furies,['the Furies'],he/him/his,0,1,0
+806,2665,this son of Aeolus,['this son of Aeolus'],he/him/his,1,0,1
+808,6432,the god Palaemon,['the god Palaemon'],he/him/his,0,1,0
+810,6532,their son - in - law,['their son - in - law'],he/him/his,0,2,0
+811,798,Libyan Amphimedon,"['Libyan Amphimedon', 'Amphimedon']",he/him/his,1,0,1
+812,807,Hodites,['Hodites'],he/him/his,1,1,0.5
+813,813,Chromis,['Chromis'],he/him/his,2,0,1
+815,821,Clytius,['Clytius'],he/him/his,0,1,0
+816,823,Mendesian Celadon,"['Mendesian Celadon', 'Celadon']",he/him/his,0,1,0
+817,830,The Chaonian,"['The Chaonian', 'Chaonian']",he/him/his,1,0,1
+818,832,Ethemon,['Ethemon'],he/him/his,2,0,1
+820,2752,this youth,['this youth'],he/him/his,0,1,0
+825,6695,the lord of the silent kingdom,['the lord of the silent kingdom'],he/him/his,0,1,0
+827,6712,The ravisher,['The ravisher'],he/him/his,2,0,1
+835,889,Erigone,['Erigone'],he/him/his,0,1,0
+840,915,Mount Rhodope,"['Mount Rhodope', 'Rhodope']",he/him/his,1,0,1
+842,920,Erectheus,['Erectheus'],he/him/his,1,0,1
+844,7027,the victorious man,['the victorious man'],he/him/his,0,2,0
+848,7144,the Cephisus,['the Cephisus'],he/him/his,0,1,0
+851,982,Oedipus,['Oedipus'],he/him/his,2,0,1
+858,1007,Castor,['Castor'],he/him/his,2,0,1
+859,1026,Hippasus,"['Hippasus', 'mighty Hippasus']",he/him/his,0,1,0
+874,1127,Attis,['Attis'],he/him/his,1,0,1
+880,4508,Lucifer ’s son,['Lucifer ’s son'],he/him/his,1,0,1
+886,4635,No waking cockerel,['No waking cockerel'],he/him/his,1,0,1
+887,8058,A second son,['A second son'],he/him/his,1,1,0.5
+888,1175,Phantasos,['Phantasos'],he/him/his,1,0,1
+892,1193,The Phrygians,"['The Phrygians', 'the Phrygians']",he/him/his,1,0,1
+893,1195,Telephus,"['Telephus', 'warring Telephus']",he/him/his,1,1,0.5
+898,1203,Amycus,['Amycus'],he/him/his,0,2,0
+899,1223,Helops,['Helops'],he/him/his,1,1,0.5
+900,1231,Demoleon,['Demoleon'],he/him/his,1,0,1
+901,1248,Pelethronian Erigdupus,['Pelethronian Erigdupus'],he/him/his,0,1,0
+902,8221,the Tirynthian,['the Tirynthian'],he/him/his,2,0,1
+903,1268,Atreus,['Atreus'],he/him/his,1,0,1
+905,8304,the retriever,['the retriever'],he/him/his,1,1,0.5
+907,5024,an only child,['an only child'],he/him/his,0,1,0
+912,1332,Telemus,['Telemus'],he/him/his,2,0,1
+913,8630,a poor man,['a poor man'],he/him/his,1,0,1
+917,1375,Latinus,['Latinus'],he/him/his,0,1,0
+918,1383,Pomona,['Pomona'],he/him/his,1,0,1
+919,1388,noble Anaxarete,"['noble Anaxarete', 'Anaxarete']",he/him/his,0,1,0
+923,1408,Milon,['Milon'],he/him/his,1,0,1
+930,5711,the serpent - child of Phoebus,['the serpent - child of Phoebus'],he/him/his,1,0,1
+931,5777,the deified Julius,['the deified Julius'],he/him/his,1,0,1
+0,5864,the goddess,"['the goddess', 'The goddess']",she/her,98,25,0.7967479675
+7,1792,the girl,"['the girl', 'The girl']",she/her,61,30,0.6703296703
+12,955,Alcyone,"['Alcyone', 'Queen Alcyone', 'faithful Alcyone']",she/her,49,8,0.8596491228
+13,913,Philomela,['Philomela'],she/her,33,11,0.75
+15,2342,the mother,"['the mother', 'The mother', 'the Mother']",she/her,45,10,0.8181818182
+17,525,Juno,"['Juno', 'Hymen', 'Neither Juno , who attends on brides , nor Hymen , nor the three Graces', 'great Juno']",she/her,40,11,0.7843137255
+18,527,Diana,"['Diana', 'Oresteian Diana']",she/her,36,8,0.8181818182
+20,5953,his mother,"['his mother', 'His mother']",she/her,18,9,0.6666666667
+27,1327,Galatea,['Galatea'],she/her,34,9,0.7906976744
+30,988,Scylla,"['Scylla', 'virgin Scylla']",she/her,34,7,0.8292682927
+31,1139,Myrrha,['Myrrha'],she/her,28,5,0.8484848485
+32,927,Medea,"['Medea', 'Phasian Medea']",she/her,32,13,0.7111111111
+33,537,Io,['Io'],she/her,33,7,0.825
+35,686,Echo,"['Echo', 'the nymph Echo']",she/her,36,5,0.8780487805
+36,523,Venus,"['Venus', 'Cytherean Venus', 'Kindly Venus', 'Cytherean', 'gentle Venus']",she/her,33,3,0.9166666667
+45,1783,the nymph,"['the nymph', 'The nymph']",she/her,19,11,0.6333333333
+46,732,Thisbe,"['Thisbe', 'Babylonian Thisbe']",she/her,20,8,0.7142857143
+56,531,Peneïs,['Peneïs'],she/her,10,6,0.625
+57,569,Aurora,"['Aurora', 'Titan', 'golden Aurora', 'sons of Astraeus the Titan by Aurora']",she/her,20,3,0.8695652174
+58,1337,Circe,['Circe'],she/her,18,3,0.8571428571
+59,540,Saturnia,['Saturnia'],she/her,27,3,0.9
+61,1106,Byblis,['Byblis'],she/her,15,3,0.8333333333
+62,8525,the unhappy mother,['the unhappy mother'],she/her,16,1,0.9411764706
+65,1633,his wife,"['his wife', 'His wife']",she/her,13,6,0.6842105263
+70,1421,Egeria,['Egeria'],she/her,10,9,0.5263157895
+71,5944,one,"['one', 'One']",she/her,14,4,0.7777777778
+73,1060,Famine,['Famine'],she/her,16,6,0.7272727273
+74,6745,The old woman,"['The old woman', 'the old woman']",she/her,24,4,0.8571428571
+75,910,Procne,['Procne'],she/her,19,2,0.9047619048
+76,4296,The injured goddess,['The injured goddess'],she/her,20,7,0.7407407407
+79,610,Minerva,"['Minerva', 'Pallas', 'Pallas Minerva', 'Neither Pallas']",she/her,15,1,0.9375
+84,677,Semele,['Semele'],she/her,8,3,0.7272727273
+85,917,Procris,['Procris'],she/her,11,5,0.6875
+88,689,Ceres,"['Ceres', 'Gentle Ceres']",she/her,9,4,0.6923076923
+94,6055,my wife,"['my wife', 'My wife']",she/her,8,4,0.6666666667
+95,895,Latona,['Latona'],she/her,13,2,0.8666666667
+97,3484,Erechtheus ’s daughter,['Erechtheus ’s daughter'],she/her,13,4,0.7647058824
+98,3761,The honourable child,['The honourable child'],she/her,8,6,0.5714285714
+101,512,Iris,['Iris'],she/her,21,4,0.84
+104,765,Tisiphone,['Tisiphone'],she/her,17,1,0.9444444444
+108,6310,a nymph,"['a nymph', 'A nymph']",she/her,15,1,0.9375
+109,7744,the nurse,"['the nurse', 'The nurse']",she/her,13,2,0.8666666667
+112,4332,Schoeneus ’s daughter,['Schoeneus ’s daughter'],she/her,13,6,0.6842105263
+113,740,Clytie,['Clytie'],she/her,10,3,0.7692307692
+122,1084,Galanthis,['Galanthis'],she/her,11,3,0.7857142857
+124,604,Callisto,['Callisto'],she/her,8,1,0.8888888889
+125,737,Cytherea,['Cytherea'],she/her,9,1,0.9
+126,2965,my mother,"['my mother', 'My mother']",she/her,12,1,0.9230769231
+127,7703,Miletus ’s daughter,['Miletus ’s daughter'],she/her,9,3,0.75
+130,1992,The virgin girl,"['The virgin girl', 'the virgin girl']",she/her,12,1,0.9230769231
+131,624,Aglauros,['Aglauros'],she/her,9,1,0.9
+132,859,Cyane,['Cyane'],she/her,7,2,0.7777777778
+133,892,Niobe,['Niobe'],she/her,6,4,0.6
+138,3915,her mother ’s only child,['her mother ’s only child'],she/her,8,3,0.7272727273
+140,1353,Venilia,['Venilia'],she/her,17,2,0.8947368421
+141,1687,Peneus ’s daughter,['Peneus ’s daughter'],she/her,7,4,0.6363636364
+143,2098,his daughter,['his daughter'],she/her,5,7,0.4166666667
+144,6129,her sister,['her sister'],she/her,2,7,0.2222222222
+146,1183,Hecuba,['Hecuba'],she/her,14,1,0.9333333333
+148,1109,Iphis,"['Iphis', 'IPHIS']",she/her,9,1,0.9
+149,1120,Eurydice,['Eurydice'],she/her,5,5,0.5
+151,1994,a woman,['a woman'],she/her,0,2,0
+158,1111,Telethusa,['Telethusa'],she/her,8,0,1
+161,1387,Venus,"['Venus', 'Idalian Venus']",she/her,10,2,0.8333333333
+162,513,Juno,"['Juno', 'Saturnian Juno']",she/her,12,2,0.8571428571
+163,1928,their mother,['their mother'],she/her,7,1,0.875
+166,680,Ino,['Ino'],she/her,3,2,0.6
+170,857,Proserpine,['Proserpine'],she/her,8,3,0.7272727273
+175,1237,Hylonome,['Hylonome'],she/her,12,1,0.9230769231
+178,1807,your mother,"['your mother', 'Your mother']",she/her,7,2,0.7777777778
+181,2325,Only Jupiter ’s wife,['Only Jupiter ’s wife'],she/her,9,2,0.8181818182
+182,2598,the daughter,['the daughter'],she/her,4,4,0.5
+189,2330,an old woman,['an old woman'],she/her,5,3,0.625
+193,841,Tritonian Minerva,['Tritonian Minerva'],she/her,13,1,0.9285714286
+194,850,Lucina,"['Lucina', 'powerful Lucina', 'Gentle Lucina']",she/her,13,1,0.9285714286
+195,874,Arachne,"['Arachne', 'Idmonian Arachne']",she/her,6,2,0.75
+197,6068,a goddess,['a goddess'],she/her,0,2,0
+199,6159,sister,['sister'],she/her,1,2,0.3333333333
+200,2361,the naiad,"['the naiad', 'the Naiad']",she/her,4,2,0.6666666667
+205,979,Nereid,"['Nereid', 'the Nereid']",she/her,7,3,0.7
+209,1314,Polyxena,['Polyxena'],she/her,5,1,0.8333333333
+214,1986,a girl from Nonacris,['a girl from Nonacris'],she/her,2,1,0.6666666667
+216,781,Medusa,['Medusa'],she/her,1,1,0.5
+217,877,Juno,"['Juno', 'Queen Juno']",she/her,7,3,0.7
+222,4024,the one who confesses her love,['the one who confesses her love'],she/her,6,2,0.75
+224,1198,Caenis,['Caenis'],she/her,7,2,0.7777777778
+228,517,Pyrrha,['Pyrrha'],she/her,4,3,0.5714285714
+231,2287,their mistress,['their mistress'],she/her,11,0,1
+240,4204,Cinyras ’s daughter,['Cinyras ’s daughter'],she/her,6,0,1
+244,1688,the one,['the one'],she/her,4,1,0.8
+245,5923,my bride,['my bride'],she/her,2,5,0.2857142857
+246,555,Clymene,['Clymene'],she/her,10,1,0.9090909091
+250,744,Leucothoë,['Leucothoë'],she/her,1,4,0.2
+251,777,Danaë,"['Danaë', 'Asopus', 'Alcmena', 'who , as Amphitryon , was charmed by you , Alcmena , of Tiryns ; by Danaë , as a golden shower ; by Aegina , daughter of Asopus', 'Aegina', 'noble Alcmena', 'Tiryns']",she/her,2,1,0.6666666667
+257,1032,Atalanta,['Atalanta'],she/her,1,3,0.25
+262,4646,My poor wife,['My poor wife'],she/her,6,0,1
+266,1704,the virgin,['the virgin'],she/her,5,4,0.5555555556
+271,728,Arsippe,['Arsippe'],she/her,7,2,0.7777777778
+274,2685,the queen,['the queen'],she/her,2,2,0.5
+275,793,Pallas,"['Pallas', 'Warlike Pallas']",she/her,11,0,1
+279,3554,his companion,['his companion'],she/her,2,1,0.6666666667
+283,1112,Isis,['Isis'],she/her,0,3,0
+288,8501,the pitiless ghost,['the pitiless ghost'],she/her,6,2,0.75
+289,1331,Venus,"['Venus', 'Gentle Venus']",she/her,5,2,0.7142857143
+299,6440,the one who had been most faithful,['the one who had been most faithful'],she/her,3,0,1
+300,6898,that Niobe,['that Niobe'],she/her,6,1,0.8571428571
+302,7104,the Colchian witch,['the Colchian witch'],she/her,10,0,1
+305,1187,Paris,['Paris'],she/her,4,2,0.6666666667
+309,1355,Canens,['Canens'],she/her,1,1,0.5
+313,5934,my daughter,['my daughter'],she/her,8,0,1
+314,2184,Agenor ’s daughter,['Agenor ’s daughter'],she/her,3,1,0.75
+321,6708,The frightened goddess,"['The frightened goddess', 'the frightened goddess']",she/her,3,1,0.75
+322,2933,The Maeonian girl,['The Maeonian girl'],she/her,8,1,0.8888888889
+324,6929,my sister,"['my sister', 'My sister']",she/her,3,1,0.75
+329,1126,Cybele,['Cybele'],she/her,8,0,1
+334,5843,wife,"['wife', 'Wife']",she/her,2,2,0.5
+337,562,Tethys,['Tethys'],she/her,4,1,0.8
+347,2858,your Proserpine,['your Proserpine'],she/her,3,1,0.75
+349,1079,Alcmena,"['Alcmena', 'Argive Alcmena']",she/her,6,2,0.75
+351,4064,No guardian,['No guardian'],she/her,5,1,0.8333333333
+355,1398,Hersilia,['Hersilia'],she/her,0,2,0
+361,614,Nyctimene,['Nyctimene'],she/her,2,0,1
+364,6285,your daughter,['your daughter'],she/her,3,1,0.75
+367,3142,her nurse,['her nurse'],she/her,1,1,0.5
+370,7094,the witch,['the witch'],she/her,2,0,1
+374,3578,"Another girl , fired with as great a passion","['Another girl , fired with as great a passion']",she/her,4,0,1
+376,1116,Ianthe,['Ianthe'],she/her,3,0,1
+378,4471,the bride you desire,['the bride you desire'],she/her,2,4,0.3333333333
+387,1727,his lost daughter,['his lost daughter'],she/her,1,3,0.25
+394,613,Herse,['Herse'],she/her,2,0,1
+395,626,Envy,['Envy'],she/her,3,1,0.75
+396,693,Thebes,"['Thebes', 'Therses of Thebes', 'Therses']",she/her,5,1,0.8333333333
+400,6511,the innocent Andromeda,['the innocent Andromeda'],she/her,1,1,0.5
+401,2727,Jupiter ’s daughter,['Jupiter ’s daughter'],she/her,6,0,1
+409,936,Glaucus,['Glaucus'],she/her,9,0,1
+413,3855,adulteress,['adulteress'],she/her,5,0,1
+414,7608,the servant,"['the servant', 'The servant']",she/her,5,1,0.8333333333
+416,7737,the Cretan woman,['the Cretan woman'],she/her,5,0,1
+417,1137,Venus,"['Venus', 'Golden Venus']",she/her,0,3,0
+418,1168,Psamathe,['Psamathe'],she/her,1,1,0.5
+419,4544,the daughter of Aeolus,['the daughter of Aeolus'],she/her,1,1,0.5
+425,1338,Sidonian Queen Dido,['Sidonian Queen Dido'],she/her,2,3,0.4
+430,5871,the Titan ’s daughter,"['the Titan ’s daughter', 'The Titan ’s daughter']",she/her,2,1,0.6666666667
+431,1689,the other,"['the other', 'The other']",she/her,5,0,1
+434,1951,the eldest sister,['the eldest sister'],she/her,1,1,0.5
+437,627,Tritonia,['Tritonia'],she/her,3,1,0.75
+439,632,Europa,['Europa'],she/her,0,1,0
+447,780,Themis,"['Themis', 'righteous Themis']",she/her,5,0,1
+450,6679,The Muse,['The Muse'],she/her,3,0,1
+452,897,Delos,['Delos'],she/her,0,3,0
+453,3005,This daughter of Tantalus,['This daughter of Tantalus'],she/her,4,0,1
+458,7600,"loquacious Rumour , who loves to add lies to fact","['loquacious Rumour , who loves to add lies to fact']",she/her,5,0,1
+459,1066,Iole,['Iole'],she/her,0,2,0
+471,349,Pergama,"['Pergama', 'high Pergama']",she/her,2,3,0.4
+477,5878,the woman,['the woman'],she/her,6,0,1
+479,524,Phoebe,"['Phoebe', 'virgin Phoebe', 'golden Phoebe']",she/her,3,1,0.75
+480,1747,Inachus ’s daughter,['Inachus ’s daughter'],she/her,0,3,0
+483,559,Doris,['Doris'],she/her,1,1,0.5
+485,2011,The Arcadian girl,['The Arcadian girl'],she/her,2,1,0.6666666667
+486,609,Coronis of Larissa,"['Coronis of Larissa', 'Coronis']",she/her,2,0,1
+487,2084,the fallen girl,['the fallen girl'],she/her,1,1,0.5
+491,714,Alcithoë,['Alcithoë'],she/her,1,1,0.5
+494,741,Eurynome,['Eurynome'],she/her,1,0,1
+501,6654,his bride,['his bride'],she/her,0,1,0
+503,862,Persephone,['Persephone'],she/her,0,1,0
+505,6796,The goddess of all that is fertile,['The goddess of all that is fertile'],she/her,5,0,1
+507,2952,The golden - haired warrior goddess,['The golden - haired warrior goddess'],she/her,4,1,0.8
+508,6860,The unfortunate girl,['The unfortunate girl'],she/her,3,2,0.6
+510,934,Luna,['Luna'],she/her,2,0,1
+513,981,Cynthia,['Cynthia'],she/her,7,0,1
+514,3581,daughter of King Nisus,['daughter of King Nisus'],she/her,2,0,1
+516,1028,Penelope,['Penelope'],she/her,3,2,0.6
+522,1095,Callirhoë,['Callirhoë'],she/her,3,0,1
+524,4054,Sol ’s daughter,['Sol ’s daughter'],she/her,2,1,0.6666666667
+525,7861,his girl,['his girl'],she/her,1,1,0.5
+527,4222,the weeping girl,['the weeping girl'],she/her,0,3,0
+528,4249,The unhappy girl,['The unhappy girl'],she/her,2,0,1
+536,1287,Helen,['Helen'],she/her,4,1,0.8
+540,1344,the Sibyl,['the Sibyl'],she/her,5,0,1
+554,577,Ida,"['Ida', 'Mount Ida']",she/her,3,0,1
+558,2072,the virgin goddess,['the virgin goddess'],she/her,3,1,0.75
+559,620,the Lernean Hydra,"['the Lernean Hydra', 'Hydra', 'the Hydra']",she/her,2,0,1
+563,2144,the warrior goddess,['the warrior goddess'],she/her,2,0,1
+564,2157,the feared war goddess,['the feared war goddess'],she/her,4,0,1
+571,2554,the fierce lioness,['the fierce lioness'],she/her,1,0,1
+572,6294,the wife,"['the wife', 'The wife']",she/her,4,0,1
+573,2590,one virgin girl,['one virgin girl'],she/her,0,1,0
+577,762,Sisyphus,['Sisyphus'],she/her,1,0,1
+588,852,Calliope,['Calliope'],she/her,1,0,1
+597,914,Night,['Night'],she/her,4,1,0.8
+598,916,Mother,['Mother'],she/her,0,2,0
+601,3303,the Triple Goddess,['the Triple Goddess'],she/her,2,0,1
+609,3636,Girl from Nonacria,['Girl from Nonacria'],she/her,1,0,1
+616,1104,Miletus,['Miletus'],she/her,2,1,0.6666666667
+617,1105,Cyanee,['Cyanee'],she/her,1,1,0.5
+622,4312,a girl who beat the fastest men at running,['a girl who beat the fastest men at running'],she/her,1,0,1
+623,1165,Chione,['Chione'],she/her,3,0,1
+624,1190,Iphigenia,['Iphigenia'],she/her,1,0,1
+628,1310,Cassandra,"['Cassandra', 'virgin Cassandra']",she/her,2,0,1
+640,5761,a Roman general ’s Egyptian consort,['a Roman general ’s Egyptian consort'],she/her,1,0,1
+643,589,Alpheus,['Alpheus'],she/her,3,0,1
+644,602,Maenalus,['Maenalus'],she/her,0,1,0
+646,611,Erichthonius,['Erichthonius'],she/her,0,1,0
+647,2055,the third Aglauros,['the third Aglauros'],she/her,3,0,1
+648,619,the Fates,"['the Fates', 'The Fates']",she/her,3,0,1
+649,2145,this girl,['this girl'],she/her,1,0,1
+652,639,Theban Crocale,['Theban Crocale'],she/her,1,0,1
+662,734,Leuconoë,['Leuconoë'],she/her,2,0,1
+665,2674,a lioness,['a lioness'],she/her,0,1,0
+666,773,Nature,['Nature'],she/her,4,0,1
+672,6628,his new bride,['his new bride'],she/her,1,0,1
+681,3059,the daughter of Coeus,['the daughter of Coeus'],she/her,3,0,1
+682,3120,Pandion ’s daughter,['Pandion ’s daughter'],she/her,1,0,1
+683,3195,a servant,['a servant'],she/her,0,1,0
+691,969,Arne,['Arne'],she/her,1,0,1
+698,3634,Latona ’s daughter,['Latona ’s daughter'],she/her,1,0,1
+702,1056,Mestra,['Mestra'],she/her,1,0,1
+708,3906,The goddess with power over the womb,['The goddess with power over the womb'],she/her,1,0,1
+710,1087,Lotis,['Lotis'],she/her,1,0,1
+712,4014,your lover,['your lover'],she/her,0,2,0
+721,1159,Hesione,['Hesione'],she/her,0,3,0
+745,1366,Minerva,"['Minerva', 'Warrior Minerva']",she/her,0,1,0
+754,1393,Tatius,['Tatius'],she/her,3,0,1
+755,1394,Tarpeia,['Tarpeia'],she/her,1,0,1
+759,504,Mount Pelion,"['Mount Pelion', 'Pelion']",she/her,1,1,0.5
+763,1680,our great mother,['our great mother'],she/her,1,0,1
+766,532,Paean,['Paean'],she/her,1,0,1
+767,1737,the fleeing girl,['the fleeing girl'],she/her,0,2,0
+769,547,Syrinx,['Syrinx'],she/her,0,1,0
+779,1952,A third sister,['A third sister'],she/her,1,0,1
+781,2017,The great Thunderer ’s wife,['The great Thunderer ’s wife'],she/her,2,0,1
+783,612,Pandrosus,['Pandrosus'],she/her,1,0,1
+785,2187,The royal virgin,['The royal virgin'],she/her,2,0,1
+787,2198,the stolen girl,['the stolen girl'],she/her,0,1,0
+791,645,Titania,['Titania'],she/her,1,0,1
+799,6286,"a Naiad , with incantations , and all too powerful herbs","['a Naiad , with incantations , and all too powerful herbs']",she/her,1,0,1
+807,772,Euhoe,['Euhoe'],she/her,0,1,0
+809,774,India,"['India', 'Vanquished India']",she/her,3,0,1
+814,814,Broteas,['Broteas'],she/her,0,1,0
+823,6680,The daughter of Jupiter,['The daughter of Jupiter'],she/her,4,0,1
+824,855,Etna,['Etna'],she/her,1,0,1
+829,6771,the queen of Erebus,['the queen of Erebus'],she/her,4,0,1
+830,2903,The Delian goddess,['The Delian goddess'],she/her,2,1,0.6666666667
+834,881,Leda,['Leda'],she/her,1,0,1
+838,3197,The wife of the savage king,['The wife of the savage king'],she/her,3,0,1
+841,3260,your beloved,['your beloved'],she/her,0,2,0
+847,946,Combe,['Combe'],she/her,1,0,1
+852,3503,"the Sphinx , dark prophetess","['the Sphinx , dark prophetess']",she/her,1,0,1
+854,3510,That swift creature,['That swift creature'],she/her,4,0,1
+856,7369,the daughter of Latona ’s altar,['the daughter of Latona ’s altar'],she/her,2,1,0.6666666667
+867,3759,a girl whom the father was not worthy of,['a girl whom the father was not worthy of'],she/her,0,1,0
+868,7588,the Calydonian girl,['the Calydonian girl'],she/her,0,1,0
+869,7605,the poor girl,['the poor girl'],she/her,1,0,1
+870,7609,the unfortunate woman,['the unfortunate woman'],she/her,1,0,1
+878,4224,The frenzied girl,['The frenzied girl'],she/her,2,0,1
+889,4660,the unfortunate one,['the unfortunate one'],she/her,1,0,1
+891,4746,the author,['the author'],she/her,2,0,1
+915,5250,the dread goddess,['the dread goddess'],she/her,1,0,1
+926,9138,his accursed stepmother,['his accursed stepmother'],she/her,1,0,1
+4,1538,the gods,"['the gods', 'The gods']",they/them/their,56,25,0.6913580247
+43,5836,others,"['others', 'Others']",they/them/their,26,5,0.8387096774
+47,5788,men,"['men', 'Men']",they/them/their,7,13,0.35
+51,1489,human beings,"['human beings', 'Human beings']",they/them/their,21,6,0.7777777778
+66,682,Bacchus,"['Bacchus', 'Liber', 'Bacchus - Liber', 'Bacchus Liber']",they/them/their,15,2,0.8823529412
+83,5945,the nymphs,"['the nymphs', 'The nymphs']",they/them/their,13,7,0.65
+102,1967,the sisters,"['the sisters', 'the Sisters']",they/them/their,15,1,0.9375
+119,3410,The nearer people,['The nearer people'],they/them/their,12,3,0.8
+137,3722,the old couple,['the old couple'],they/them/their,13,0,1
+155,6346,someone,"['someone', 'Someone']",they/them/their,13,1,0.9285714286
+157,7415,The warriors,"['The warriors', 'the warriors']",they/them/their,8,5,0.6153846154
+171,3113,the Furies,['the Furies'],they/them/their,4,2,0.6666666667
+177,5829,the people,"['the people', 'The people']",they/them/their,12,5,0.7058823529
+184,4119,"those men , whose foreheads were once marred by two horns","['those men , whose foreheads were once marred by two horns']",they/them/their,5,3,0.625
+185,4754,the Trojans,"['the Trojans', 'The Trojans']",they/them/their,14,3,0.8235294118
+215,2244,The army,['The army'],they/them/their,11,2,0.8461538462
+223,7899,the frenzied Ciconian women,['the frenzied Ciconian women'],they/them/their,5,2,0.7142857143
+230,2224,the men,"['the men', 'The men']",they/them/their,4,2,0.6666666667
+235,6372,the enemy,['the enemy'],they/them/their,4,2,0.6666666667
+256,923,the Argonauts,"['the Argonauts', 'Argonauts']",they/them/their,9,1,0.9
+258,3681,his poor sisters,['his poor sisters'],they/them/their,7,3,0.7
+259,1073,Diomede,"['Diomede', 'Thracian Diomede']",they/them/their,6,0,1
+263,5350,Naiads of the waters,['Naiads of the waters'],they/them/their,13,1,0.9285714286
+265,1558,all the gods,"['all the gods', 'All the gods']",they/them/their,5,4,0.5555555556
+267,2277,his companions,['his companions'],they/them/their,8,1,0.8888888889
+268,2312,The pack of them,['The pack of them'],they/them/their,8,0,1
+277,873,The Emathides,['The Emathides'],they/them/their,9,0,1
+286,4756,the Greeks,['the Greeks'],they/them/their,4,2,0.6666666667
+294,2213,his attendants,['his attendants'],they/them/their,5,2,0.7142857143
+297,2580,the two,"['the two', 'The two']",they/them/their,2,4,0.3333333333
+301,3273,twin brothers,['twin brothers'],they/them/their,4,1,0.8
+307,8718,that treacherous people,['that treacherous people'],they/them/their,1,4,0.2
+312,1756,the others,"['the others', 'The others']",they/them/their,5,1,0.8333333333
+325,918,Cephalus,['Cephalus'],they/them/their,6,3,0.6666666667
+332,1519,people,"['people', 'People']",they/them/their,4,0,1
+335,5884,farmers,['farmers'],they/them/their,5,1,0.8333333333
+340,2264,daughters,"['daughters', 'Daughters']",they/them/their,5,0,1
+341,2389,everyone,['everyone'],they/them/their,1,3,0.25
+342,690,the Naiads,"['the Naiads', 'The Ausonian Naiads']",they/them/their,5,1,0.8333333333
+343,6253,all female servants,['all female servants'],they/them/their,2,0,1
+354,8901,the Romans,"['the Romans', 'The Romans']",they/them/their,5,0,1
+360,2037,The gods of the sea,"['The gods of the sea', 'the gods of the sea']",they/them/their,5,1,0.8333333333
+371,975,Phocus,['Phocus'],they/them/their,4,0,1
+373,3440,Some,"['Some', 'some']",they/them/their,7,0,1
+375,3879,O divine beings,['O divine beings'],they/them/their,1,0,1
+381,8114,both sides,['both sides'],they/them/their,6,1,0.8571428571
+382,8120,The leaders,"['The leaders', 'the leaders']",they/them/their,4,1,0.8
+385,5571,those beings,['those beings'],they/them/their,6,1,0.8571428571
+391,595,The Heliads,['The Heliads'],they/them/their,4,0,1
+392,2012,all of them,['all of them'],they/them/their,1,0,1
+404,2750,my people,['my people'],they/them/their,2,2,0.5
+407,909,Pandion,['Pandion'],they/them/their,0,1,0
+408,6962,my brothers,"['my brothers', 'My brothers']",they/them/their,1,2,0.3333333333
+410,3451,such men as I had seen in sleep ’s imagining,['such men as I had seen in sleep ’s imagining'],they/them/their,5,2,0.7142857143
+415,7717,The Lelegeian nymphs,['The Lelegeian nymphs'],they/them/their,7,0,1
+420,8119,the gods love,['the gods love'],they/them/their,4,0,1
+423,8478,The Trojan women,['The Trojan women'],they/them/their,4,0,1
+427,5784,all,"['all', 'All']",they/them/their,5,0,1
+428,5799,sons,['sons'],they/them/their,1,0,1
+433,1850,"the team , sated with ambrosial food and breathing fire","['the team , sated with ambrosial food and breathing fire']",they/them/their,1,2,0.3333333333
+441,2223,his friends,['his friends'],they/them/their,2,1,0.6666666667
+442,2253,his brothers,['his brothers'],they/them/their,1,1,0.5
+443,2485,The treacherous men,['The treacherous men'],they/them/their,3,0,1
+446,6435,Ino ’s Sidonian attendants,['Ino ’s Sidonian attendants'],they/them/their,3,0,1
+451,2957,Women of Thebes,['Women of Thebes'],they/them/their,4,1,0.8
+455,7258,his two sons,['his two sons'],they/them/their,2,1,0.6666666667
+456,1052,Baucis,"['Baucis', 'godly Baucis']",they/them/their,6,1,0.8571428571
+464,4518,his men,['his men'],they/them/their,1,2,0.3333333333
+465,1188,Greeks,"['Greeks', 'the Greeks']",they/them/their,1,3,0.25
+466,4758,a thousand men,['a thousand men'],they/them/their,1,2,0.3333333333
+468,4928,the captains,['the captains'],they/them/their,1,2,0.3333333333
+470,1280,Helenus,['Helenus'],they/them/their,2,1,0.6666666667
+474,5815,nymphs,"['nymphs', 'Nymphs']",they/them/their,2,0,1
+475,1591,the farmers,['the farmers'],they/them/their,1,1,0.5
+492,727,The Ismenides,['The Ismenides'],they/them/their,3,0,1
+493,6280,the daughters of Minyas,['the daughters of Minyas'],they/them/their,4,0,1
+496,2640,both,['both'],they/them/their,0,2,0
+504,6779,the companions,['the companions'],they/them/their,3,0,1
+509,3156,both sisters,['both sisters'],they/them/their,1,1,0.5
+511,7089,the king ’s daughters,"['the king ’s daughters', 'The king ’s daughters']",they/them/their,5,2,0.7142857143
+512,3454,this new people,['this new people'],they/them/their,2,1,0.6666666667
+515,7364,the peoples inhabiting wealthy Achaia,['the peoples inhabiting wealthy Achaia'],they/them/their,2,0,1
+519,7528,the old people,['the old people'],they/them/their,0,3,0
+520,1075,Philoctetes,['Philoctetes'],they/them/their,0,1,0
+523,1101,Anchises,['Anchises'],they/them/their,1,0,1
+542,1371,Ardea,['Ardea'],they/them/their,2,0,1
+543,1405,Souls,['Souls'],they/them/their,3,1,0.75
+547,5631,the council of Greek elders,['the council of Greek elders'],they/them/their,2,1,0.6666666667
+548,5736,"the gods , who though they could not break the iron rules of the ancient sisters","['the gods , who though they could not break the iron rules of the ancient sisters']",they/them/their,4,2,0.6666666667
+550,1672,the just,['the just'],they/them/their,2,0,1
+551,5946,the satyrs,"['the satyrs', 'the Satyrs']",they/them/their,2,0,1
+555,580,the Ethiopians,['the Ethiopians'],they/them/their,1,0,1
+557,2052,the three virgin daughters of two - natured Cecrops,['the three virgin daughters of two - natured Cecrops'],they/them/their,2,1,0.6666666667
+562,2123,innocent girls,['innocent girls'],they/them/their,3,0,1
+566,681,Mount Nysa,"['Mount Nysa', 'the Nymphs of Mount Nysa , who had nursed him']",they/them/their,1,0,1
+569,2479,All the others,['All the others'],they/them/their,1,1,0.5
+578,6402,the forty - nine Belides,['the forty - nine Belides'],they/them/their,2,0,1
+580,2678,"those who are mine , whom you see","['those who are mine , whom you see']",they/them/their,0,1,0
+582,6547,the noble Ethiopian princes,['the noble Ethiopian princes'],they/them/their,3,0,1
+583,2729,her enemies,['her enemies'],they/them/their,1,3,0.25
+586,6625,The bands of conspirators,['The bands of conspirators'],they/them/their,1,1,0.5
+589,863,Arethusa,['Arethusa'],they/them/their,1,1,0.5
+591,6881,a number of Amphion ’s seven sons mounted on their strong horses,['a number of Amphion ’s seven sons mounted on their strong horses'],they/them/their,0,1,0
+592,6888,the young men,['the young men'],they/them/their,0,1,0
+596,911,The Eumenides,"['The Eumenides', 'Eumenides', 'the Eumenides']",they/them/their,5,0,1
+599,3277,both alike,['both alike'],they/them/their,2,0,1
+600,929,Charybdis,['Charybdis'],they/them/their,1,0,1
+602,7090,Pelias ’s daughters,['Pelias ’s daughters'],they/them/their,1,1,0.5
+604,7180,oxen,['oxen'],they/them/their,2,0,1
+605,3404,The sick,"['The sick', 'the sick']",they/them/their,2,0,1
+606,3464,the Athenians,['the Athenians'],they/them/their,1,2,0.3333333333
+607,989,Pasiphaë,['Pasiphaë'],they/them/their,1,0,1
+610,7456,the three sisters,"['the three sisters', 'the Three Sisters']",they/them/their,1,1,0.5
+612,1053,Philemon,"['Philemon', 'old Philemon']",they/them/their,6,0,1
+614,7556,his servants,['his servants'],they/them/their,2,1,0.6666666667
+615,1085,Dryope,['Dryope'],they/them/their,3,0,1
+618,7682,girls,['girls'],they/them/their,1,0,1
+626,8179,the centaurs maddened,['the centaurs maddened'],they/them/their,0,1,0
+627,8396,his comrades,['his comrades'],they/them/their,1,2,0.3333333333
+629,1319,The Thracians,['The Thracians'],they/them/their,3,0,1
+630,5059,my unwilling daughters,['my unwilling daughters'],they/them/their,0,2,0
+632,8625,This whole flock,['This whole flock'],they/them/their,1,0,1
+633,8764,two of my friends,['two of my friends'],they/them/their,0,2,0
+634,5215,his crew,['his crew'],they/them/their,6,0,1
+645,607,Oceanus,"['Oceanus', 'old Oceanus']",they/them/their,0,2,0
+650,2250,"these youths , who were allowed such brief lives","['these youths , who were allowed such brief lives']",they/them/their,1,0,1
+654,670,Melaneus,['Melaneus'],they/them/their,1,1,0.5
+655,691,the Dryads,"['the Dryads', 'Dryads']",they/them/their,3,0,1
+656,696,Acoetes,['Acoetes'],they/them/their,1,1,0.5
+658,706,Naxos,['Naxos'],they/them/their,1,1,0.5
+661,2577,her parents,"['her parents', 'Her parents']",they/them/their,2,0,1
+668,6579,the crowd of men,['the crowd of men'],they/them/their,2,0,1
+669,806,Idas,"['Idas', 'swift Idas']",they/them/their,2,1,0.6666666667
+670,6604,two brothers,"['two brothers', 'Two brothers']",they/them/their,2,0,1
+673,6647,two hundred bodies,['two hundred bodies'],they/them/their,1,1,0.5
+678,2920,the losers,['the losers'],they/them/their,2,0,1
+680,2997,the two of Latona ’s family,['the two of Latona ’s family'],they/them/their,2,0,1
+684,3247,the Athenian women,['the Athenian women'],they/them/their,2,0,1
+686,7016,these warriors,['these warriors'],they/them/their,1,1,0.5
+688,7072,the attendants,['the attendants'],they/them/their,3,1,0.75
+692,7227,the sons of Pallas,"['the sons of Pallas', 'The sons of Pallas']",they/them/their,2,0,1
+693,3505,many country people,['many country people'],they/them/their,1,1,0.5
+694,986,the Aeacides,"['the Aeacides', 'Aeacides']",they/them/their,1,0,1
+697,7406,the heroes,['the heroes'],they/them/their,1,1,0.5
+699,3676,the women of Calydon,['the women of Calydon'],they/them/their,2,0,1
+701,3709,the sailors,['the sailors'],they/them/their,2,0,1
+707,7622,This sailors,['This sailors'],they/them/their,1,1,0.5
+711,7663,Each god,['Each god'],they/them/their,3,0,1
+717,4236,The married women,['The married women'],they/them/their,3,0,1
+720,7908,brawny farm workers,['brawny farm workers'],they/them/their,2,0,1
+726,8074,the servants,"['the servants', 'The servants']",they/them/their,4,0,1
+732,1222,Lycus,['Lycus'],they/them/their,3,0,1
+737,1275,Lemnos,['Lemnos'],they/them/their,4,0,1
+740,8468,The Dardanian women,['The Dardanian women'],they/them/their,0,1,0
+743,8693,the oarsmen of the Trojan ships,['the oarsmen of the Trojan ships'],they/them/their,2,1,0.6666666667
+746,5334,the ambassadors,['the ambassadors'],they/them/their,1,1,0.5
+751,8940,each of her many attendants,['each of her many attendants'],they/them/their,0,1,0
+753,5401,The Sabine leaders,['The Sabine leaders'],they/them/their,0,1,0
+756,1529,the seamen,['the seamen'],they/them/their,2,0,1
+757,5793,Husbands,['Husbands'],they/them/their,1,0,1
+760,5805,these progeny also despising the gods,['these progeny also despising the gods'],they/them/their,0,1,0
+761,1549,The lesser gods,['The lesser gods'],they/them/their,1,0,1
+762,1572,some of the gods,['some of the gods'],they/them/their,1,0,1
+764,1699,a traveller,['a traveller'],they/them/their,3,0,1
+771,1821,some seen swimming,['some seen swimming'],they/them/their,0,1,0
+774,1898,the nymphs with dishevelled hair,['the nymphs with dishevelled hair'],they/them/their,1,0,1
+778,1946,the Italian nymphs,['the Italian nymphs'],they/them/their,3,0,1
+780,1998,the other nymphs,['the other nymphs'],they/them/their,1,0,1
+788,636,the Phoenicians,['the Phoenicians'],they/them/their,1,1,0.5
+790,640,Nephele,['Nephele'],they/them/their,2,0,1
+793,664,Aëllo,['Aëllo'],they/them/their,1,0,1
+795,688,Nemesis,"['Nemesis', 'Rhamnusian Nemesis']",they/them/their,0,1,0
+796,6200,your exiled Penates,['your exiled Penates'],they/them/their,0,1,0
+798,2478,the oarsmen,['the oarsmen'],they/them/their,1,0,1
+802,2650,his parents,['his parents'],they/them/their,2,0,1
+803,6367,the Maeonian sailors,['the Maeonian sailors'],they/them/their,0,2,0
+819,836,Eryx,['Eryx'],they/them/their,2,0,1
+821,839,Proetus,['Proetus'],they/them/their,0,1,0
+822,846,Mnemosyne,['Mnemosyne'],they/them/their,1,0,1
+826,2814,the lords of the sea,['the lords of the sea'],they/them/their,0,1,0
+828,858,the Bacchiadae,['the Bacchiadae'],they/them/their,1,0,1
+831,6826,the nymphs of Mount Tmolus,['the nymphs of Mount Tmolus'],they/them/their,2,0,1
+832,6828,the nymphs of the River Pactolus,['the nymphs of the River Pactolus'],they/them/their,1,0,1
+833,6846,the twelve gods,['the twelve gods'],they/them/their,1,0,1
+836,6906,"The sisters , with black garments , and loosened hair","['The sisters , with black garments , and loosened hair']",they/them/their,1,0,1
+837,3040,her twins,['her twins'],they/them/their,0,1,0
+839,3200,the young Thracian women,['the young Thracian women'],they/them/their,1,0,1
+843,7020,The earth - born brothers,['The earth - born brothers'],they/them/their,2,1,0.6666666667
+845,7092,her petitioners,['her petitioners'],they/them/their,1,0,1
+846,7120,the women of the island,['the women of the island'],they/them/their,2,0,1
+849,7183,The statesmen,['The statesmen'],they/them/their,4,0,1
+850,7220,the sons of Aeacus,['the sons of Aeacus'],they/them/their,2,0,1
+853,3507,The young men of the neighbourhood,['The young men of the neighbourhood'],they/them/their,2,0,1
+855,3601,The citizens,['The citizens'],they/them/their,2,0,1
+857,7376,the herdsmen,['the herdsmen'],they/them/their,1,0,1
+860,1042,Althaea,['Althaea'],they/them/their,1,0,1
+861,7483,the barefoot nymphs,['the barefoot nymphs'],they/them/their,2,1,0.6666666667
+862,7522,their visitors,['their visitors'],they/them/their,1,0,1
+863,7539,The people of Bithynia,['The people of Bithynia'],they/them/their,1,0,1
+864,7540,Trustworthy old men,['Trustworthy old men'],they/them/their,2,0,1
+865,7541,those who love the gods,['those who love the gods'],they/them/their,1,1,0.5
+866,7554,the Dryads,['the Dryads'],they/them/their,1,0,1
+871,7707,The women of Bubasos,['The women of Bubasos'],they/them/their,1,1,0.5
+872,7790,The bloodless spirits,['The bloodless spirits'],they/them/their,2,0,1
+873,1123,the Belides,['the Belides'],they/them/their,2,0,1
+875,4118,those girls,['those girls'],they/them/their,0,2,0
+876,1134,the Propoetides,"['the Propoetides', 'the immoral Propoetides']",they/them/their,1,0,1
+877,4199,noble suitors,['noble suitors'],they/them/their,0,1,0
+879,1144,Boars,['Boars'],they/them/their,1,0,1
+881,16,the Nereids,['the Nereids'],they/them/their,2,0,1
+882,8019,Some of our men,['Some of our men'],they/them/their,0,2,0
+883,4548,"the young crew , double - ranked","['the young crew , double - ranked']",they/them/their,2,0,1
+884,4562,some of the crew,['some of the crew'],they/them/their,1,0,1
+885,4613,The majority of the crew,['The majority of the crew'],they/them/their,1,0,1
+890,1189,Calchas,['Calchas'],they/them/their,1,0,1
+894,1201,Hippodame,['Hippodame'],they/them/their,0,1,0
+895,8155,the cloud - born centaurs,['the cloud - born centaurs'],they/them/their,0,1,0
+896,8161,the noisy crowd,['the noisy crowd'],they/them/their,2,0,1
+897,4789,His twin - natured brothers,['His twin - natured brothers'],they/them/their,1,0,1
+904,4924,the leaders of the Greeks,['the leaders of the Greeks'],they/them/their,0,1,0
+906,8376,our allies,['our allies'],they/them/their,1,1,0.5
+908,5052,my female offspring,['my female offspring'],they/them/their,2,1,0.6666666667
+909,5082,Orion ’s daughters,['Orion ’s daughters'],they/them/their,0,1,0
+910,1325,the Teucrians,['the Teucrians'],they/them/their,1,0,1
+911,8584,a relentless breed of men,['a relentless breed of men'],they/them/their,1,1,0.5
+914,5245,female servants,['female servants'],they/them/their,2,0,1
+916,5314,those happy whom the storm,['those happy whom the storm'],they/them/their,0,1,0
+920,5416,the Roman soldiers,['the Roman soldiers'],they/them/their,1,0,1
+921,9029,its rulers,['its rulers'],they/them/their,0,1,0
+922,5468,These two,['These two'],they/them/their,1,0,1
+924,9112,the natives,['the natives'],they/them/their,1,0,1
+925,5510,the women of Scythia,['the women of Scythia'],they/them/their,0,1,0
+927,1428,Romans,"['Romans', 'the Romans']",they/them/their,1,0,1
+928,5649,The terrified crowd,['The terrified crowd'],they/them/their,2,1,0.6666666667
+929,5700,All the people,['All the people'],they/them/their,3,0,1

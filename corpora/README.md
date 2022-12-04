@@ -1,0 +1,1 @@
+Text taken from [A.S. Kline's translation](https://www.poetryintranslation.com/PITBR/Latin/Ovhome.php)

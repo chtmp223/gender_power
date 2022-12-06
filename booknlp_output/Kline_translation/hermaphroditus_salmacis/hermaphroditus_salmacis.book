@@ -1,0 +1,1287 @@
+{
+    "characters": [
+        {
+            "agent": [
+                {
+                    "w": "pretended",
+                    "i": 681
+                },
+                {
+                    "w": "surrender",
+                    "i": 690
+                },
+                {
+                    "w": "walks",
+                    "i": 733
+                },
+                {
+                    "w": "dips",
+                    "i": 750
+                },
+                {
+                    "w": "stripped",
+                    "i": 772
+                },
+                {
+                    "w": "dives",
+                    "i": 859
+                },
+                {
+                    "w": "leading",
+                    "i": 865
+                },
+                {
+                    "w": "gleams",
+                    "i": 875
+                },
+                {
+                    "w": "escape",
+                    "i": 1097
+                },
+                {
+                    "w": "saw",
+                    "i": 1209
+                },
+                {
+                    "w": "softened",
+                    "i": 1237
+                },
+                {
+                    "w": "penetrated",
+                    "i": 1218
+                },
+                {
+                    "w": "leave",
+                    "i": 1286
+                }
+            ],
+            "patient": [
+                {
+                    "w": "tell",
+                    "i": 243
+                },
+                {
+                    "w": "inflamed",
+                    "i": 790
+                },
+                {
+                    "w": "hold",
+                    "i": 837
+                },
+                {
+                    "w": "held",
+                    "i": 928
+                },
+                {
+                    "w": "hugs",
+                    "i": 1061
+                }
+            ],
+            "mod": [
+                {
+                    "w": "cries",
+                    "i": 908
+                }
+            ],
+            "poss": [
+                {
+                    "w": "idleness",
+                    "i": 261
+                },
+                {
+                    "w": "guest",
+                    "i": 698
+                },
+                {
+                    "w": "walk",
+                    "i": 748
+                },
+                {
+                    "w": "feet",
+                    "i": 752
+                },
+                {
+                    "w": "ankles",
+                    "i": 754
+                },
+                {
+                    "w": "body",
+                    "i": 779
+                },
+                {
+                    "w": "form",
+                    "i": 796
+                },
+                {
+                    "w": "orb",
+                    "i": 822
+                },
+                {
+                    "w": "palms",
+                    "i": 854
+                },
+                {
+                    "w": "side",
+                    "i": 857
+                },
+                {
+                    "w": "breast",
+                    "i": 950
+                },
+                {
+                    "w": "beauty",
+                    "i": 972
+                },
+                {
+                    "w": "head",
+                    "i": 1004
+                },
+                {
+                    "w": "feet",
+                    "i": 1006
+                },
+                {
+                    "w": "wings",
+                    "i": 1011
+                },
+                {
+                    "w": "body",
+                    "i": 1075
+                },
+                {
+                    "w": "limbs",
+                    "i": 1234
+                },
+                {
+                    "w": "parents",
+                    "i": 1305
+                }
+            ],
+            "id": 8,
+            "g": {
+                "inference": {
+                    "he/him/his": 0.461,
+                    "she/her": 0.135,
+                    "they/them/their": 0.135,
+                    "xe/xem/xyr/xir": 0.135,
+                    "ze/zem/zir/hir": 0.135
+                },
+                "argmax": "he/him/his",
+                "max": 0.461,
+                "total": 0.742
+            },
+            "count": 36,
+            "mentions": {
+                "proper": [
+                    {
+                        "c": 3,
+                        "n": "Salmacis"
+                    }
+                ],
+                "common": [],
+                "pronoun": [
+                    {
+                        "c": 14,
+                        "n": "his"
+                    },
+                    {
+                        "c": 8,
+                        "n": "him"
+                    },
+                    {
+                        "c": 6,
+                        "n": "he"
+                    },
+                    {
+                        "c": 1,
+                        "n": "your"
+                    },
+                    {
+                        "c": 1,
+                        "n": "I"
+                    },
+                    {
+                        "c": 1,
+                        "n": "my"
+                    },
+                    {
+                        "c": 1,
+                        "n": "He"
+                    },
+                    {
+                        "c": 1,
+                        "n": "you"
+                    }
+                ]
+            }
+        },
+        {
+            "agent": [
+                {
+                    "w": "begged",
+                    "i": 630
+                },
+                {
+                    "w": "looked",
+                    "i": 704
+                },
+                {
+                    "w": "hid",
+                    "i": 708
+                },
+                {
+                    "w": "wait",
+                    "i": 827
+                },
+                {
+                    "w": "won",
+                    "i": 899
+                },
+                {
+                    "w": "throws",
+                    "i": 918
+                },
+                {
+                    "w": "held",
+                    "i": 928
+                },
+                {
+                    "w": "entwines",
+                    "i": 965
+                },
+                {
+                    "w": "face",
+                    "i": 967
+                },
+                {
+                    "w": "twines",
+                    "i": 1001
+                },
+                {
+                    "w": "hugs",
+                    "i": 1061
+                },
+                {
+                    "w": "says",
+                    "i": 1089
+                },
+                {
+                    "w": "escape",
+                    "i": 1097
+                }
+            ],
+            "patient": [
+                {
+                    "w": "hid",
+                    "i": 708
+                },
+                {
+                    "w": "throws",
+                    "i": 918
+                },
+                {
+                    "w": "joined",
+                    "i": 1071
+                },
+                {
+                    "w": "part",
+                    "i": 1110
+                }
+            ],
+            "mod": [
+                {
+                    "w": "pleased",
+                    "i": 785
+                }
+            ],
+            "poss": [
+                {
+                    "w": "arms",
+                    "i": 646
+                },
+                {
+                    "w": "knees",
+                    "i": 720
+                },
+                {
+                    "w": "delight",
+                    "i": 832
+                },
+                {
+                    "w": "love",
+                    "i": 845
+                },
+                {
+                    "w": "garments",
+                    "i": 915
+                },
+                {
+                    "w": "hands",
+                    "i": 943
+                },
+                {
+                    "w": "coils",
+                    "i": 1014
+                },
+                {
+                    "w": "prayer",
+                    "i": 1122
+                }
+            ],
+            "id": 34,
+            "g": {
+                "inference": {
+                    "he/him/his": 0,
+                    "she/her": 1.0,
+                    "they/them/their": 0,
+                    "xe/xem/xyr/xir": 0,
+                    "ze/zem/zir/hir": 0
+                },
+                "argmax": "she/her",
+                "max": 1.0,
+                "total": 19
+            },
+            "count": 31,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 2,
+                        "n": "The nymph"
+                    },
+                    {
+                        "c": 1,
+                        "n": "the nymph"
+                    }
+                ],
+                "pronoun": [
+                    {
+                        "c": 8,
+                        "n": "her"
+                    },
+                    {
+                        "c": 8,
+                        "n": "she"
+                    },
+                    {
+                        "c": 4,
+                        "n": "herself"
+                    },
+                    {
+                        "c": 2,
+                        "n": "you"
+                    },
+                    {
+                        "c": 2,
+                        "n": "She"
+                    },
+                    {
+                        "c": 2,
+                        "n": "me"
+                    },
+                    {
+                        "c": 1,
+                        "n": "I"
+                    },
+                    {
+                        "c": 1,
+                        "n": "Her"
+                    }
+                ]
+            }
+        },
+        {
+            "agent": [
+                {
+                    "w": "known",
+                    "i": 227
+                },
+                {
+                    "w": "takes",
+                    "i": 272
+                },
+                {
+                    "w": "vary",
+                    "i": 286
+                },
+                {
+                    "w": "bathes",
+                    "i": 297
+                },
+                {
+                    "w": "combs",
+                    "i": 306
+                },
+                {
+                    "w": "lies",
+                    "i": 342
+                },
+                {
+                    "w": "gathers",
+                    "i": 357
+                },
+                {
+                    "w": "saw",
+                    "i": 372
+                },
+                {
+                    "w": "saw",
+                    "i": 379
+                },
+                {
+                    "w": "longed",
+                    "i": 381
+                },
+                {
+                    "w": "go",
+                    "i": 390
+                },
+                {
+                    "w": "checked",
+                    "i": 411
+                },
+                {
+                    "w": "calmed",
+                    "i": 408
+                },
+                {
+                    "w": "began",
+                    "i": 428
+                }
+            ],
+            "patient": [
+                {
+                    "w": "calmed",
+                    "i": 408
+                }
+            ],
+            "mod": [
+                {
+                    "w": "busy",
+                    "i": 364
+                },
+                {
+                    "w": "quick",
+                    "i": 398
+                }
+            ],
+            "poss": [
+                {
+                    "w": "sisters",
+                    "i": 241
+                },
+                {
+                    "w": "idleness",
+                    "i": 288
+                },
+                {
+                    "w": "limbs",
+                    "i": 300
+                },
+                {
+                    "w": "hair",
+                    "i": 309
+                },
+                {
+                    "w": "appearance",
+                    "i": 413
+                },
+                {
+                    "w": "expression",
+                    "i": 417
+                }
+            ],
+            "id": 7,
+            "g": {
+                "inference": {
+                    "he/him/his": 0.038,
+                    "she/her": 0.813,
+                    "they/them/their": 0.116,
+                    "xe/xem/xyr/xir": 0.016,
+                    "ze/zem/zir/hir": 0.016
+                },
+                "argmax": "she/her",
+                "max": 0.813,
+                "total": 12.091
+            },
+            "count": 24,
+            "mentions": {
+                "proper": [
+                    {
+                        "c": 1,
+                        "n": "Diana"
+                    }
+                ],
+                "common": [],
+                "pronoun": [
+                    {
+                        "c": 12,
+                        "n": "she"
+                    },
+                    {
+                        "c": 7,
+                        "n": "her"
+                    },
+                    {
+                        "c": 2,
+                        "n": "She"
+                    },
+                    {
+                        "c": 1,
+                        "n": "herself"
+                    },
+                    {
+                        "c": 1,
+                        "n": "I"
+                    }
+                ]
+            }
+        },
+        {
+            "agent": [
+                {
+                    "w": "took",
+                    "i": 85
+                },
+                {
+                    "w": "left",
+                    "i": 99
+                },
+                {
+                    "w": "delighted",
+                    "i": 109
+                },
+                {
+                    "w": "reached",
+                    "i": 131
+                },
+                {
+                    "w": "saw",
+                    "i": 144
+                }
+            ],
+            "patient": [
+                {
+                    "w": "nursed",
+                    "i": 44
+                }
+            ],
+            "mod": [
+                {
+                    "w": "old",
+                    "i": 96
+                }
+            ],
+            "poss": [
+                {
+                    "w": "features",
+                    "i": 65
+                },
+                {
+                    "w": "name",
+                    "i": 87
+                },
+                {
+                    "w": "mountains",
+                    "i": 102
+                },
+                {
+                    "w": "nursery",
+                    "i": 107
+                },
+                {
+                    "w": "enthusiasm",
+                    "i": 123
+                }
+            ],
+            "id": 15,
+            "g": {
+                "inference": {
+                    "he/him/his": 1.0,
+                    "she/her": 0,
+                    "they/them/their": 0,
+                    "xe/xem/xyr/xir": 0,
+                    "ze/zem/zir/hir": 0
+                },
+                "argmax": "he/him/his",
+                "max": 1.0,
+                "total": 10
+            },
+            "count": 11,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 1,
+                        "n": "a child born of Hermes"
+                    }
+                ],
+                "pronoun": [
+                    {
+                        "c": 4,
+                        "n": "he"
+                    },
+                    {
+                        "c": 4,
+                        "n": "his"
+                    },
+                    {
+                        "c": 1,
+                        "n": "His"
+                    },
+                    {
+                        "c": 1,
+                        "n": "He"
+                    }
+                ]
+            }
+        },
+        {
+            "agent": [
+                {
+                    "w": "have",
+                    "i": 481
+                },
+                {
+                    "w": "think",
+                    "i": 519
+                }
+            ],
+            "patient": [
+                {
+                    "w": "say",
+                    "i": 430
+                },
+                {
+                    "w": "blessed",
+                    "i": 465
+                },
+                {
+                    "w": "suckled",
+                    "i": 489
+                }
+            ],
+            "mod": [
+                {
+                    "w": "mortal",
+                    "i": 459
+                }
+            ],
+            "poss": [],
+            "id": 53,
+            "g": null,
+            "count": 9,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 1,
+                        "n": "Youth"
+                    }
+                ],
+                "pronoun": [
+                    {
+                        "c": 8,
+                        "n": "you"
+                    }
+                ]
+            }
+        },
+        {
+            "agent": [
+                {
+                    "w": "know",
+                    "i": 573
+                },
+                {
+                    "w": "said",
+                    "i": 655
+                },
+                {
+                    "w": "go",
+                    "i": 663
+                },
+                {
+                    "w": "leave",
+                    "i": 666
+                }
+            ],
+            "patient": [
+                {
+                    "w": "saw",
+                    "i": 372
+                }
+            ],
+            "mod": [],
+            "poss": [
+                {
+                    "w": "neck",
+                    "i": 652
+                }
+            ],
+            "id": 31,
+            "g": {
+                "inference": {
+                    "he/him/his": 1.0,
+                    "she/her": 0,
+                    "they/them/their": 0,
+                    "xe/xem/xyr/xir": 0,
+                    "ze/zem/zir/hir": 0
+                },
+                "argmax": "he/him/his",
+                "max": 1.0,
+                "total": 5
+            },
+            "count": 8,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 2,
+                        "n": "the boy"
+                    }
+                ],
+                "pronoun": [
+                    {
+                        "c": 2,
+                        "n": "him"
+                    },
+                    {
+                        "c": 1,
+                        "n": "He"
+                    },
+                    {
+                        "c": 1,
+                        "n": "his"
+                    },
+                    {
+                        "c": 1,
+                        "n": "he"
+                    },
+                    {
+                        "c": 1,
+                        "n": "I"
+                    }
+                ]
+            }
+        },
+        {
+            "agent": [
+                {
+                    "w": "tries",
+                    "i": 993
+                },
+                {
+                    "w": "stretching",
+                    "i": 1242
+                },
+                {
+                    "w": "said",
+                    "i": 1247
+                },
+                {
+                    "w": "grant",
+                    "i": 1262
+                }
+            ],
+            "patient": [],
+            "mod": [],
+            "poss": [
+                {
+                    "w": "hands",
+                    "i": 1245
+                }
+            ],
+            "id": 5,
+            "g": {
+                "inference": {
+                    "he/him/his": 0.57,
+                    "she/her": 0.352,
+                    "they/them/their": 0.026,
+                    "xe/xem/xyr/xir": 0.026,
+                    "ze/zem/zir/hir": 0.026
+                },
+                "argmax": "he/him/his",
+                "max": 0.57,
+                "total": 3.883
+            },
+            "count": 4,
+            "mentions": {
+                "proper": [
+                    {
+                        "c": 3,
+                        "n": "Hermaphroditus"
+                    }
+                ],
+                "common": [],
+                "pronoun": [
+                    {
+                        "c": 1,
+                        "n": "his"
+                    }
+                ]
+            }
+        },
+        {
+            "agent": [],
+            "patient": [
+                {
+                    "w": "rescue",
+                    "i": 625
+                }
+            ],
+            "mod": [
+                {
+                    "w": "silent",
+                    "i": 559
+                }
+            ],
+            "poss": [
+                {
+                    "w": "brightness",
+                    "i": 613
+                }
+            ],
+            "id": 32,
+            "g": {
+                "inference": {
+                    "he/him/his": 0,
+                    "she/her": 1.0,
+                    "they/them/their": 0,
+                    "xe/xem/xyr/xir": 0,
+                    "ze/zem/zir/hir": 0
+                },
+                "argmax": "she/her",
+                "max": 1.0,
+                "total": 2
+            },
+            "count": 4,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 2,
+                        "n": "the naiad"
+                    }
+                ],
+                "pronoun": [
+                    {
+                        "c": 2,
+                        "n": "her"
+                    }
+                ]
+            }
+        },
+        {
+            "agent": [],
+            "patient": [
+                {
+                    "w": "mated",
+                    "i": 1171
+                },
+                {
+                    "w": "called",
+                    "i": 1196
+                }
+            ],
+            "mod": [],
+            "poss": [],
+            "id": 46,
+            "g": {
+                "inference": {
+                    "he/him/his": 0,
+                    "she/her": 0,
+                    "they/them/their": 1.0,
+                    "xe/xem/xyr/xir": 0,
+                    "ze/zem/zir/hir": 0
+                },
+                "argmax": "they/them/their",
+                "max": 1.0,
+                "total": 3
+            },
+            "count": 4,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 1,
+                        "n": "both"
+                    }
+                ],
+                "pronoun": [
+                    {
+                        "c": 3,
+                        "n": "they"
+                    }
+                ]
+            }
+        },
+        {
+            "agent": [
+                {
+                    "w": "moved",
+                    "i": 1306
+                },
+                {
+                    "w": "granted",
+                    "i": 1310
+                }
+            ],
+            "patient": [],
+            "mod": [],
+            "poss": [
+                {
+                    "w": "son",
+                    "i": 1267
+                },
+                {
+                    "w": "names",
+                    "i": 1273
+                },
+                {
+                    "w": "son",
+                    "i": 1318
+                }
+            ],
+            "id": 50,
+            "g": {
+                "inference": {
+                    "he/him/his": 0,
+                    "she/her": 0,
+                    "they/them/their": 1.0,
+                    "xe/xem/xyr/xir": 0,
+                    "ze/zem/zir/hir": 0
+                },
+                "argmax": "they/them/their",
+                "max": 1.0,
+                "total": 1
+            },
+            "count": 4,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 1,
+                        "n": "his parents"
+                    }
+                ],
+                "pronoun": [
+                    {
+                        "c": 2,
+                        "n": "your"
+                    },
+                    {
+                        "c": 1,
+                        "n": "their"
+                    }
+                ]
+            }
+        },
+        {
+            "agent": [
+                {
+                    "w": "grafts",
+                    "i": 1148
+                },
+                {
+                    "w": "see",
+                    "i": 1156
+                }
+            ],
+            "patient": [],
+            "mod": [],
+            "poss": [],
+            "id": 60,
+            "g": {
+                "inference": {
+                    "he/him/his": 0,
+                    "she/her": 0,
+                    "they/them/their": 1.0,
+                    "xe/xem/xyr/xir": 0,
+                    "ze/zem/zir/hir": 0
+                },
+                "argmax": "they/them/their",
+                "max": 1.0,
+                "total": 1
+            },
+            "count": 3,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 2,
+                        "n": "someone"
+                    }
+                ],
+                "pronoun": [
+                    {
+                        "c": 1,
+                        "n": "they"
+                    }
+                ]
+            }
+        },
+        {
+            "agent": [],
+            "patient": [],
+            "mod": [],
+            "poss": [
+                {
+                    "w": "voice",
+                    "i": 1255
+                }
+            ],
+            "id": 47,
+            "g": null,
+            "count": 3,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 3,
+                        "n": "a man"
+                    }
+                ],
+                "pronoun": []
+            }
+        },
+        {
+            "agent": [],
+            "patient": [
+                {
+                    "w": "seen",
+                    "i": 79
+                },
+                {
+                    "w": "stretching",
+                    "i": 1242
+                }
+            ],
+            "mod": [],
+            "poss": [],
+            "id": 18,
+            "g": null,
+            "count": 2,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 2,
+                        "n": "mother"
+                    }
+                ],
+                "pronoun": []
+            }
+        },
+        {
+            "agent": [],
+            "patient": [
+                {
+                    "w": "seen",
+                    "i": 79
+                },
+                {
+                    "w": "stretching",
+                    "i": 1242
+                }
+            ],
+            "mod": [],
+            "poss": [],
+            "id": 19,
+            "g": null,
+            "count": 2,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 1,
+                        "n": "father"
+                    },
+                    {
+                        "c": 1,
+                        "n": "Father"
+                    }
+                ],
+                "pronoun": []
+            }
+        },
+        {
+            "agent": [
+                {
+                    "w": "lives",
+                    "i": 198
+                }
+            ],
+            "patient": [],
+            "mod": [
+                {
+                    "w": "skilled",
+                    "i": 205
+                }
+            ],
+            "poss": [],
+            "id": 28,
+            "g": {
+                "inference": {
+                    "he/him/his": 0,
+                    "she/her": 1.0,
+                    "they/them/their": 0,
+                    "xe/xem/xyr/xir": 0,
+                    "ze/zem/zir/hir": 0
+                },
+                "argmax": "she/her",
+                "max": 1.0,
+                "total": 1
+            },
+            "count": 2,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 1,
+                        "n": "A nymph"
+                    }
+                ],
+                "pronoun": [
+                    {
+                        "c": 1,
+                        "n": "she"
+                    }
+                ]
+            }
+        },
+        {
+            "agent": [],
+            "patient": [
+                {
+                    "w": "thought",
+                    "i": 439
+                }
+            ],
+            "mod": [],
+            "poss": [],
+            "id": 54,
+            "g": null,
+            "count": 2,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 2,
+                        "n": "a god"
+                    }
+                ],
+                "pronoun": []
+            }
+        },
+        {
+            "agent": [],
+            "patient": [
+                {
+                    "w": "have",
+                    "i": 481
+                }
+            ],
+            "mod": [],
+            "poss": [],
+            "id": 58,
+            "g": {
+                "inference": {
+                    "he/him/his": 0,
+                    "she/her": 0,
+                    "they/them/their": 1.0,
+                    "xe/xem/xyr/xir": 0,
+                    "ze/zem/zir/hir": 0
+                },
+                "argmax": "they/them/their",
+                "max": 1.0,
+                "total": 1
+            },
+            "count": 2,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 1,
+                        "n": "sisters"
+                    }
+                ],
+                "pronoun": [
+                    {
+                        "c": 1,
+                        "n": "them"
+                    }
+                ]
+            }
+        },
+        {
+            "agent": [],
+            "patient": [],
+            "mod": [],
+            "poss": [
+                {
+                    "w": "breast",
+                    "i": 493
+                }
+            ],
+            "id": 59,
+            "g": {
+                "inference": {
+                    "he/him/his": 0,
+                    "she/her": 1.0,
+                    "they/them/their": 0,
+                    "xe/xem/xyr/xir": 0,
+                    "ze/zem/zir/hir": 0
+                },
+                "argmax": "she/her",
+                "max": 1.0,
+                "total": 1
+            },
+            "count": 2,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 1,
+                        "n": "the nurse who suckled you at her breast"
+                    }
+                ],
+                "pronoun": [
+                    {
+                        "c": 1,
+                        "n": "her"
+                    }
+                ]
+            }
+        },
+        {
+            "agent": [],
+            "patient": [
+                {
+                    "w": "reached",
+                    "i": 1123
+                }
+            ],
+            "mod": [],
+            "poss": [],
+            "id": 43,
+            "g": null,
+            "count": 2,
+            "mentions": {
+                "proper": [],
+                "common": [
+                    {
+                        "c": 1,
+                        "n": "the gods"
+                    }
+                ],
+                "pronoun": [
+                    {
+                        "c": 1,
+                        "n": "you"
+                    }
+                ]
+            }
+        }
+    ]
+}

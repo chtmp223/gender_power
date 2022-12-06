@@ -1,0 +1,417 @@
+{
+    "Arethusa": {
+        "agent": [
+            {
+                "w": "lifts",
+                "i": 41
+            },
+            {
+                "w": "wringing",
+                "i": 50
+            },
+            {
+                "w": "tells",
+                "i": 61
+            },
+            {
+                "w": "said",
+                "i": 87
+            },
+            {
+                "w": "sought",
+                "i": 113
+            },
+            {
+                "w": "blushed",
+                "i": 145
+            },
+            {
+                "w": "thought",
+                "i": 167
+            },
+            {
+                "w": "remember",
+                "i": 177
+            },
+            {
+                "w": "returning",
+                "i": 182
+            },
+            {
+                "w": "came",
+                "i": 202
+            },
+            {
+                "w": "count",
+                "i": 227
+            },
+            {
+                "w": "dipped",
+                "i": 259
+            },
+            {
+                "w": "undressed",
+                "i": 277
+            },
+            {
+                "w": "draped",
+                "i": 280
+            },
+            {
+                "w": "gathered",
+                "i": 300
+            },
+            {
+                "w": "splashed",
+                "i": 306
+            },
+            {
+                "w": "thought",
+                "i": 328
+            },
+            {
+                "w": "heard",
+                "i": 330
+            },
+            {
+                "w": "leapt",
+                "i": 343
+            },
+            {
+                "w": "rushing",
+                "i": 356
+            },
+            {
+                "w": "rushing",
+                "i": 372
+            },
+            {
+                "w": "fled",
+                "i": 392
+            },
+            {
+                "w": "left",
+                "i": 400
+            },
+            {
+                "w": "seemed",
+                "i": 423
+            },
+            {
+                "w": "ran",
+                "i": 430
+            },
+            {
+                "w": "followed",
+                "i": 436
+            },
+            {
+                "w": "ran",
+                "i": 464
+            },
+            {
+                "w": "stay",
+                "i": 493
+            },
+            {
+                "w": "ran",
+                "i": 534
+            },
+            {
+                "w": "saw",
+                "i": 544
+            },
+            {
+                "w": "feared",
+                "i": 565
+            },
+            {
+                "w": "feared",
+                "i": 565
+            },
+            {
+                "w": "stirred",
+                "i": 578
+            },
+            {
+                "w": "cried",
+                "i": 594
+            },
+            {
+                "w": "moved",
+                "i": 795
+            },
+            {
+                "w": "tell",
+                "i": 816
+            },
+            {
+                "w": "turned",
+                "i": 820
+            }
+        ],
+        "patient": [
+            {
+                "w": "concealed",
+                "i": 683
+            },
+            {
+                "w": "brought",
+                "i": 879
+            },
+            {
+                "w": "receive",
+                "i": 917
+            },
+            {
+                "w": "Help",
+                "i": 597
+            },
+            {
+                "w": "taken",
+                "i": 603
+            }
+        ],
+        "mod": [
+            {
+                "w": "wiry",
+                "i": 122
+            }
+        ],
+        "poss": [
+            {
+                "w": "head",
+                "i": 43
+            },
+            {
+                "w": "tresses",
+                "i": 58
+            },
+            {
+                "w": "beauty",
+                "i": 117
+            },
+            {
+                "w": "name",
+                "i": 125
+            },
+            {
+                "w": "looks",
+                "i": 134
+            },
+            {
+                "w": "body",
+                "i": 154
+            },
+            {
+                "w": "efforts",
+                "i": 195
+            },
+            {
+                "w": "toes",
+                "i": 261
+            },
+            {
+                "w": "knees",
+                "i": 269
+            },
+            {
+                "w": "clothes",
+                "i": 283
+            },
+            {
+                "w": "arms",
+                "i": 319
+            },
+            {
+                "w": "clothes",
+                "i": 396
+            },
+            {
+                "w": "clothes",
+                "i": 402
+            },
+            {
+                "w": "back",
+                "i": 541
+            },
+            {
+                "w": "feet",
+                "i": 551
+            },
+            {
+                "w": "fear",
+                "i": 557
+            },
+            {
+                "w": "hair",
+                "i": 583
+            },
+            {
+                "w": "tracks",
+                "i": 764
+            },
+            {
+                "w": "limbs",
+                "i": 782
+            },
+            {
+                "w": "body",
+                "i": 791
+            },
+            {
+                "w": "foot",
+                "i": 797
+            },
+            {
+                "w": "hair",
+                "i": 808
+            },
+            {
+                "w": "goddess",
+                "i": 896
+            }
+        ],
+        "gender": "she/her"
+    },
+    "Alpheus": {
+        "agent": [
+            {
+                "w": "circled",
+                "i": 655
+            },
+            {
+                "w": "searched",
+                "i": 663
+            },
+            {
+                "w": "rounded",
+                "i": 675
+            },
+            {
+                "w": "go",
+                "i": 754
+            },
+            {
+                "w": "see",
+                "i": 759
+            },
+            {
+                "w": "observed",
+                "i": 769
+            },
+            {
+                "w": "assumed",
+                "i": 847
+            },
+            {
+                "w": "changed",
+                "i": 850
+            },
+            {
+                "w": "mingled",
+                "i": 859
+            },
+            {
+                "w": "called",
+                "i": 363
+            },
+            {
+                "w": "called",
+                "i": 376
+            },
+            {
+                "w": "pursued",
+                "i": 414
+            },
+            {
+                "w": "burned",
+                "i": 416
+            },
+            {
+                "w": "followed",
+                "i": 436
+            }
+        ],
+        "patient": [
+            {
+                "w": "fitted",
+                "i": 504
+            },
+            {
+                "w": "escape",
+                "i": 590
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "love",
+                "i": 832
+            },
+            {
+                "w": "form",
+                "i": 856
+            },
+            {
+                "w": "mouth",
+                "i": 577
+            }
+        ],
+        "gender": "he/him/his"
+    },
+    "Diana": {
+        "agent": [
+            {
+                "w": "help",
+                "i": 607
+            },
+            {
+                "w": "gave",
+                "i": 620
+            },
+            {
+                "w": "concealed",
+                "i": 683
+            },
+            {
+                "w": "called",
+                "i": 688
+            },
+            {
+                "w": "split",
+                "i": 866
+            },
+            {
+                "w": "plunging",
+                "i": 871
+            }
+        ],
+        "patient": [
+            {
+                "w": "moved",
+                "i": 638
+            },
+            {
+                "w": "born",
+                "i": 908
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "weapons",
+                "i": 613
+            },
+            {
+                "w": "bow",
+                "i": 622
+            },
+            {
+                "w": "quiver",
+                "i": 628
+            }
+        ],
+        "gender": "she/her"
+    }
+}

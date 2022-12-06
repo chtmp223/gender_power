@@ -1,0 +1,668 @@
+{
+    "Jupiter": {
+        "agent": [
+            {
+                "w": "heard",
+                "i": 417
+            },
+            {
+                "w": "smiled",
+                "i": 419
+            },
+            {
+                "w": "apparelled",
+                "i": 571
+            },
+            {
+                "w": "kissed",
+                "i": 990
+            },
+            {
+                "w": "resting",
+                "i": 78
+            },
+            {
+                "w": "starts",
+                "i": 86
+            },
+            {
+                "w": "stopped",
+                "i": 128
+            },
+            {
+                "w": "beheld",
+                "i": 133
+            },
+            {
+                "w": "beheld",
+                "i": 290
+            },
+            {
+                "w": "argued",
+                "i": 298
+            },
+            {
+                "w": "transformed",
+                "i": 342
+            },
+            {
+                "w": "took",
+                "i": 345
+            },
+            {
+                "w": "heard",
+                "i": 411
+            },
+            {
+                "w": "sought",
+                "i": 512
+            },
+            {
+                "w": "forgot",
+                "i": 528
+            },
+            {
+                "w": "averted",
+                "i": 1299
+            },
+            {
+                "w": "removed",
+                "i": 1302
+            }
+        ],
+        "patient": [
+            {
+                "w": "resist",
+                "i": 483
+            },
+            {
+                "w": "views",
+                "i": 26
+            },
+            {
+                "w": "dazzled",
+                "i": 912
+            },
+            {
+                "w": "transformed",
+                "i": 342
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "arms",
+                "i": 440
+            },
+            {
+                "w": "love",
+                "i": 459
+            },
+            {
+                "w": "embrace",
+                "i": 471
+            },
+            {
+                "w": "view",
+                "i": 58
+            },
+            {
+                "w": "Arcadia",
+                "i": 82
+            },
+            {
+                "w": "breast",
+                "i": 148
+            },
+            {
+                "w": "course",
+                "i": 241
+            },
+            {
+                "w": "heights",
+                "i": 515
+            }
+        ],
+        "gender": "he/him/his"
+    },
+    "Callisto": {
+        "agent": [
+            {
+                "w": "deck",
+                "i": 161
+            },
+            {
+                "w": "gird",
+                "i": 174
+            },
+            {
+                "w": "bind",
+                "i": 179
+            },
+            {
+                "w": "bore",
+                "i": 189
+            },
+            {
+                "w": "held",
+                "i": 198
+            },
+            {
+                "w": "loved",
+                "i": 215
+            },
+            {
+                "w": "pierced",
+                "i": 244
+            },
+            {
+                "w": "slipped",
+                "i": 255
+            },
+            {
+                "w": "loosed",
+                "i": 263
+            },
+            {
+                "w": "pressed",
+                "i": 277
+            },
+            {
+                "w": "slept",
+                "i": 286
+            },
+            {
+                "w": "awoke",
+                "i": 357
+            },
+            {
+                "w": "rose",
+                "i": 391
+            },
+            {
+                "w": "said",
+                "i": 393
+            },
+            {
+                "w": "hid",
+                "i": 773
+            },
+            {
+                "w": "borne",
+                "i": 849
+            },
+            {
+                "w": "bear",
+                "i": 883
+            },
+            {
+                "w": "flaunt",
+                "i": 887
+            },
+            {
+                "w": "escape",
+                "i": 898
+            },
+            {
+                "w": "stood",
+                "i": 1258
+            },
+            {
+                "w": "frightened",
+                "i": 1274
+            },
+            {
+                "w": "wert",
+                "i": 662
+            },
+            {
+                "w": "desecrate",
+                "i": 797
+            }
+        ],
+        "patient": [
+            {
+                "w": "clothed",
+                "i": 153
+            },
+            {
+                "w": "beheld",
+                "i": 290
+            },
+            {
+                "w": "espied",
+                "i": 1232
+            },
+            {
+                "w": "knew",
+                "i": 1240
+            },
+            {
+                "w": "espied",
+                "i": 559
+            },
+            {
+                "w": "called",
+                "i": 563
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "hair",
+                "i": 163
+            },
+            {
+                "w": "robe",
+                "i": 176
+            },
+            {
+                "w": "hair",
+                "i": 182
+            },
+            {
+                "w": "hand",
+                "i": 195
+            },
+            {
+                "w": "arm",
+                "i": 260
+            },
+            {
+                "w": "neck",
+                "i": 280
+            },
+            {
+                "w": "state",
+                "i": 782
+            },
+            {
+                "w": "mien",
+                "i": 823
+            },
+            {
+                "w": "wickedness",
+                "i": 878
+            },
+            {
+                "w": "child",
+                "i": 1255
+            }
+        ],
+        "gender": "she/her"
+    },
+    "Diana": {
+        "agent": [
+            {
+                "w": "began",
+                "i": 444
+            },
+            {
+                "w": "struggled",
+                "i": 466
+            },
+            {
+                "w": "resist",
+                "i": 483
+            },
+            {
+                "w": "forgot",
+                "i": 528
+            },
+            {
+                "w": "ventured",
+                "i": 600
+            },
+            {
+                "w": "raise",
+                "i": 614
+            },
+            {
+                "w": "walk",
+                "i": 636
+            },
+            {
+                "w": "observed",
+                "i": 700
+            },
+            {
+                "w": "approved",
+                "i": 720
+            },
+            {
+                "w": "struck",
+                "i": 726
+            },
+            {
+                "w": "praising",
+                "i": 737
+            },
+            {
+                "w": "withheld",
+                "i": 830
+            }
+        ],
+        "patient": [
+            {
+                "w": "kissed",
+                "i": 430
+            },
+            {
+                "w": "strained",
+                "i": 436
+            },
+            {
+                "w": "driven",
+                "i": 806
+            },
+            {
+                "w": "seized",
+                "i": 927
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "form",
+                "i": 348
+            },
+            {
+                "w": "dress",
+                "i": 353
+            },
+            {
+                "w": "hunt",
+                "i": 452
+            },
+            {
+                "w": "heart",
+                "i": 499
+            },
+            {
+                "w": "quiver",
+                "i": 530
+            },
+            {
+                "w": "bow",
+                "i": 533
+            },
+            {
+                "w": "bow",
+                "i": 533
+            },
+            {
+                "w": "train",
+                "i": 542
+            },
+            {
+                "w": "vision",
+                "i": 616
+            },
+            {
+                "w": "silence",
+                "i": 644
+            },
+            {
+                "w": "blushes",
+                "i": 647
+            },
+            {
+                "w": "blushes",
+                "i": 647
+            },
+            {
+                "w": "distress",
+                "i": 673
+            },
+            {
+                "w": "foot",
+                "i": 728
+            },
+            {
+                "w": "side",
+                "i": 641
+            }
+        ],
+        "gender": "she/her"
+    },
+    "Juno": {
+        "agent": [
+            {
+                "w": "learn",
+                "i": 309
+            },
+            {
+                "w": "heard",
+                "i": 841
+            },
+            {
+                "w": "cried",
+                "i": 867
+            },
+            {
+                "w": "dragged",
+                "i": 936
+            },
+            {
+                "w": "raised",
+                "i": 945
+            },
+            {
+                "w": "begged",
+                "i": 950
+            },
+            {
+                "w": "pled",
+                "i": 957
+            },
+            {
+                "w": "appear",
+                "i": 1043
+            },
+            {
+                "w": "lifts",
+                "i": 1061
+            },
+            {
+                "w": "lifts",
+                "i": 1075
+            },
+            {
+                "w": "wandered",
+                "i": 1101
+            },
+            {
+                "w": "fled",
+                "i": 1137
+            },
+            {
+                "w": "hid",
+                "i": 1149
+            },
+            {
+                "w": "fled",
+                "i": 1165
+            },
+            {
+                "w": "feared",
+                "i": 1178
+            },
+            {
+                "w": "feared",
+                "i": 1178
+            },
+            {
+                "w": "fled",
+                "i": 1180
+            },
+            {
+                "w": "witnessed",
+                "i": 496
+            }
+        ],
+        "patient": [
+            {
+                "w": "dragged",
+                "i": 936
+            },
+            {
+                "w": "driven",
+                "i": 1125
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "eyes",
+                "i": 861
+            },
+            {
+                "w": "thoughts",
+                "i": 863
+            },
+            {
+                "w": "forehead",
+                "i": 924
+            },
+            {
+                "w": "rival",
+                "i": 932
+            },
+            {
+                "w": "arms",
+                "i": 948
+            },
+            {
+                "w": "limbs",
+                "i": 965
+            },
+            {
+                "w": "hands",
+                "i": 968
+            },
+            {
+                "w": "prayers",
+                "i": 995
+            },
+            {
+                "w": "words",
+                "i": 998
+            },
+            {
+                "w": "throat",
+                "i": 1018
+            },
+            {
+                "w": "understanding",
+                "i": 1032
+            },
+            {
+                "w": "body",
+                "i": 1036
+            },
+            {
+                "w": "sorrows",
+                "i": 1050
+            },
+            {
+                "w": "hands",
+                "i": 1063
+            },
+            {
+                "w": "voice",
+                "i": 1089
+            },
+            {
+                "w": "dwelling",
+                "i": 1115
+            },
+            {
+                "w": "condition",
+                "i": 1157
+            },
+            {
+                "w": "father",
+                "i": 1187
+            },
+            {
+                "w": "knowledge",
+                "i": 321
+            },
+            {
+                "w": "tongue",
+                "i": 334
+            }
+        ],
+        "gender": "she/her"
+    },
+    "Arcas": {
+        "agent": [
+            {
+                "w": "hunted",
+                "i": 1210
+            },
+            {
+                "w": "espied",
+                "i": 1232
+            },
+            {
+                "w": "told",
+                "i": 1247
+            },
+            {
+                "w": "knew",
+                "i": 1240
+            },
+            {
+                "w": "began",
+                "i": 1268
+            },
+            {
+                "w": "frightened",
+                "i": 1274
+            },
+            {
+                "w": "drew",
+                "i": 1278
+            },
+            {
+                "w": "upbore",
+                "i": 1319
+            },
+            {
+                "w": "fixed",
+                "i": 1329
+            }
+        ],
+        "patient": [
+            {
+                "w": "told",
+                "i": 1247
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "choice",
+                "i": 1216
+            },
+            {
+                "w": "nets",
+                "i": 1224
+            },
+            {
+                "w": "mother",
+                "i": 1235
+            },
+            {
+                "w": "parentage",
+                "i": 1251
+            },
+            {
+                "w": "mother",
+                "i": 1283
+            }
+        ],
+        "gender": "he/him/his"
+    }
+}

@@ -1,1 +1,1576 @@
-{"Tereus": {"agent": [{"w": "ordered", "i": 284}, {"w": "reached", "i": 295}, {"w": "gained", "i": 313}, {"w": "started", "i": 343}, {"w": "promise", "i": 359}, {"w": "entered", "i": 376}, {"w": "took", "i": 425}, {"w": "stored", "i": 446}, {"w": "burnt", "i": 481}, {"w": "dare", "i": 539}, {"w": "contain", "i": 549}, {"w": "suffered", "i": 558}, {"w": "returned", "i": 564}, {"w": "petitioned", "i": 585}, {"w": "make", "i": 594}, {"w": "embellished", "i": 604}, {"w": "gazes", "i": 695}, {"w": "imagining", "i": 700}, {"w": "encircling", "i": 713}, {"w": "eats", "i": 2992}, {"w": "fills", "i": 3004}, {"w": "have", "i": 3052}, {"w": "ask", "i": 3061}, {"w": "looks", "i": 3066}, {"w": "calling", "i": 3080}, {"w": "seeking", "i": 3083}, {"w": "took", "i": 1276}, {"w": "locked", "i": 1294}, {"w": "locked", "i": 1294}, {"w": "overcame", "i": 1327}, {"w": "savage", "i": 1456}, {"w": "done", "i": 1469}, {"w": "care", "i": 1473}, {"w": "vows", "i": 1497}, {"w": "confounded", "i": 1501}, {"w": "traitor", "i": 1538}, {"w": "done", "i": 1551}, {"w": "pay", "i": 1601}, {"w": "done", "i": 1616}, {"w": "freed", "i": 1698}, {"w": "seizing", "i": 1709}, {"w": "gathered", "i": 1712}, {"w": "severed", "i": 1749}, {"w": "assailed", "i": 1852}, {"w": "controlled", "i": 1864}, {"w": "returned", "i": 1876}, {"w": "told", "i": 1890}, {"w": "gave", "i": 1898}, {"w": "retired", "i": 852}, {"w": "imagined", "i": 876}, {"w": "fuelled", "i": 892}, {"w": "seen", "i": 884}, {"w": "wish", "i": 889}, {"w": "pushed", "i": 3144}, {"w": "tear", "i": 3176}, {"w": "reveal", "i": 3182}, {"w": "weeps", "i": 3199}, {"w": "calls", "i": 3202}, {"w": "desired", "i": 954}, {"w": "routed", "i": 3}, {"w": "won", "i": 14}, {"w": "promise", "i": 253}, {"w": "allowed", "i": 276}], "patient": [{"w": "joined", "i": 134}, {"w": "driven", "i": 461}, {"w": "commissioned", "i": 614}, {"w": "viewed", "i": 638}, {"w": "throw", "i": 2519}, {"w": "invites", "i": 2948}, {"w": "changed", "i": 3305}, {"w": "joined", "i": 1517}, {"w": "escapes", "i": 1544}, {"w": "controlled", "i": 1864}, {"w": "disturbed", "i": 858}, {"w": "calls", "i": 3202}, {"w": "beg", "i": 989}], "mod": [{"w": "master", "i": 26}, {"w": "enough", "i": 1043}, {"w": "dutiful", "i": 1058}], "poss": [{"w": "descent", "i": 37}, {"w": "ship", "i": 286}, {"w": "father", "i": 317}, {"w": "visit", "i": 351}, {"w": "request", "i": 356}, {"w": "passion", "i": 465}, {"w": "region", "i": 475}, {"w": "vice", "i": 485}, {"w": "nation", "i": 488}, {"w": "nation", "i": 488}, {"w": "impulse", "i": 492}, {"w": "kingdom", "i": 520}, {"w": "heart", "i": 554}, {"w": "wishes", "i": 573}, {"w": "speeches", "i": 606}, {"w": "efforts", "i": 634}, {"w": "deceit", "i": 644}, {"w": "crime", "i": 651}, {"w": "request", "i": 657}, {"w": "eyes", "i": 2539}, {"w": "tongue", "i": 2541}, {"w": "spirit", "i": 2558}, {"w": "chair", "i": 3001}, {"w": "belly", "i": 3006}, {"w": "child", "i": 3010}, {"w": "cries", "i": 3019}, {"w": "grief", "i": 3297}, {"w": "desire", "i": 3299}, {"w": "intent", "i": 1324}, {"w": "vows", "i": 1497}, {"w": "fear", "i": 1690}, {"w": "side", "i": 1706}, {"w": "blade", "i": 1755}, {"w": "lust", "i": 1861}, {"w": "fires", "i": 895}, {"w": "son", "i": 909}, {"w": "eyes", "i": 926}, {"w": "daughter", "i": 930}, {"w": "body", "i": 3179}, {"w": "child", "i": 3195}, {"w": "son", "i": 3209}, {"w": "honour", "i": 970}, {"w": "sister", "i": 1046}, {"w": "army", "i": 9}, {"w": "victory", "i": 20}], "gender": "he/him/his"}, "Procne": {"agent": [{"w": "said", "i": 221}, {"w": "see", "i": 279}, {"w": "wished", "i": 598}, {"w": "commissioned", "i": 614}, {"w": "tore", "i": 1903}, {"w": "put", "i": 1918}, {"w": "embodies", "i": 2266}, {"w": "comes", "i": 2272}, {"w": "howls", "i": 2283}, {"w": "hides", "i": 2313}, {"w": "took", "i": 2371}, {"w": "uncovered", "i": 2377}, {"w": "burned", "i": 2455}, {"w": "control", "i": 2460}, {"w": "know", "i": 2581}, {"w": "going", "i": 2588}, {"w": "hide", "i": 3029}, {"w": "cries", "i": 3049}, {"w": "cries", "i": 3049}, {"w": "do", "i": 2605}, {"w": "said", "i": 2616}, {"w": "began", "i": 2638}, {"w": "turned", "i": 2709}, {"w": "turned", "i": 2715}, {"w": "said", "i": 2734}, {"w": "dragged", "i": 2804}, {"w": "does", "i": 2811}, {"w": "left", "i": 2200}, {"w": "prepared", "i": 2204}, {"w": "married", "i": 170}, {"w": "invites", "i": 2948}, {"w": "giving", "i": 2957}, {"w": "sends", "i": 2984}, {"w": "unrolls", "i": 2091}, {"w": "reads", "i": 2096}, {"w": "keeps", "i": 2107}], "patient": [{"w": "joined", "i": 134}, {"w": "send", "i": 237}, {"w": "greeted", "i": 2653}, {"w": "kissed", "i": 2667}, {"w": "moved", "i": 2675}, {"w": "calls", "i": 2760}, {"w": "call", "i": 2768}, {"w": "prepared", "i": 2204}, {"w": "giving", "i": 54}, {"w": "entrusted", "i": 928}, {"w": "commanded", "i": 1069}, {"w": "kissed", "i": 1073}, {"w": "sent", "i": 366}], "mod": [{"w": "enemy", "i": 1526}, {"w": "prepared", "i": 2502}, {"w": "ready", "i": 2566}], "poss": [{"w": "husband", "i": 226}, {"w": "sister", "i": 242}, {"w": "sister", "i": 247}, {"w": "father", "i": 255}, {"w": "request", "i": 568}, {"w": "anger", "i": 2462}, {"w": "sister", "i": 2466}, {"w": "exultation", "i": 3032}, {"w": "plan", "i": 2643}, {"w": "neck", "i": 2664}, {"w": "anger", "i": 2678}, {"w": "eyes", "i": 2684}, {"w": "will", "i": 2694}, {"w": "mind", "i": 2701}, {"w": "sister", "i": 2720}, {"w": "neck", "i": 2886}, {"w": "palace", "i": 2202}, {"w": "head", "i": 2228}, {"w": "side", "i": 2237}, {"w": "shoulder", "i": 2245}, {"w": "companions", "i": 2256}, {"w": "sister", "i": 2301}, {"w": "sister", "i": 2384}, {"w": "arms", "i": 2391}, {"w": "king", "i": 173}, {"w": "country", "i": 2969}, {"w": "request", "i": 356}, {"w": "sister", "i": 2098}], "gender": "she/her"}, "Philomela": {"agent": [{"w": "entered", "i": 376}, {"w": "dressed", "i": 378}, {"w": "wishes", "i": 655}, {"w": "go", "i": 675}, {"w": "urges", "i": 682}, {"w": "embraces", "i": 734}, {"w": "called", "i": 1340}, {"w": "quivered", "i": 1367}, {"w": "come", "i": 1419}, {"w": "dragged", "i": 1425}, {"w": "clawed", "i": 1436}, {"w": "shouted", "i": 1451}, {"w": "tell", "i": 1612}, {"w": "get", "i": 1620}, {"w": "fill", "i": 1642}, {"w": "move", "i": 1649}, {"w": "offered", "i": 1742}, {"w": "struggled", "i": 1764}, {"w": "do", "i": 1971}, {"w": "fastens", "i": 2017}, {"w": "weaves", "i": 2027}, {"w": "entrusts", "i": 2040}, {"w": "asks", "i": 2051}, {"w": "takes", "i": 2073}, {"w": "has", "i": 2129}, {"w": "rushes", "i": 2136}, {"w": "realised", "i": 2342}, {"w": "reached", "i": 2346}, {"w": "bear", "i": 2397}, {"w": "made", "i": 2444}, {"w": "opened", "i": 2901}, {"w": "wished", "i": 3122}, {"w": "declare", "i": 3134}, {"w": "know", "i": 2494}, {"w": "come", "i": 248}, {"w": "return", "i": 258}], "patient": [{"w": "see", "i": 279}, {"w": "imagining", "i": 700}, {"w": "took", "i": 1276}, {"w": "locked", "i": 1294}, {"w": "overcame", "i": 1327}, {"w": "forced", "i": 1507}, {"w": "rob", "i": 1530}, {"w": "pay", "i": 1601}, {"w": "kept", "i": 1634}, {"w": "asked", "i": 2071}, {"w": "seeing", "i": 2403}, {"w": "visit", "i": 677}, {"w": "seizes", "i": 2299}, {"w": "disguises", "i": 2303}, {"w": "dragging", "i": 2321}, {"w": "leads", "i": 2333}, {"w": "clutched", "i": 2387}, {"w": "reproaching", "i": 2464}, {"w": "Seeing", "i": 420}, {"w": "seduce", "i": 507}, {"w": "rape", "i": 523}, {"w": "give", "i": 961}, {"w": "protect", "i": 992}, {"w": "see", "i": 240}], "mod": [], "poss": [{"w": "forearms", "i": 663}, {"w": "father", "i": 666}, {"w": "sister", "i": 679}, {"w": "interest", "i": 688}, {"w": "kisses", "i": 708}, {"w": "arms", "i": 712}, {"w": "father", "i": 715}, {"w": "father", "i": 736}, {"w": "sister", "i": 1316}, {"w": "father", "i": 1352}, {"w": "sister", "i": 1355}, {"w": "most", "i": 1358}, {"w": "senses", "i": 1422}, {"w": "hair", "i": 1429}, {"w": "arms", "i": 1439}, {"w": "breasts", "i": 1445}, {"w": "father", "i": 1477}, {"w": "sister", "i": 1487}, {"w": "virginity", "i": 1493}, {"w": "sister", "i": 1511}, {"w": "enemy", "i": 1526}, {"w": "shade", "i": 1560}, {"w": "guilt", "i": 1657}, {"w": "throat", "i": 1745}, {"w": "tongue", "i": 1751}, {"w": "indignation", "i": 1769}, {"w": "father", "i": 1774}, {"w": "root", "i": 1782}, {"w": "body", "i": 1855}, {"w": "sister", "i": 1881}, {"w": "clothes", "i": 1906}, {"w": "shoulders", "i": 1915}, {"w": "escape", "i": 1977}, {"w": "mouth", "i": 1993}, {"w": "thread", "i": 2019}, {"w": "lips", "i": 2113}, {"w": "tongue", "i": 2116}, {"w": "indignation", "i": 2124}, {"w": "mind", "i": 2148}, {"w": "eyes", "i": 2401}, {"w": "betrayer", "i": 2409}, {"w": "face", "i": 2413}, {"w": "shame", "i": 2434}, {"w": "hands", "i": 2448}, {"w": "hair", "i": 3092}, {"w": "exultation", "i": 3136}, {"w": "throat", "i": 3273}, {"w": "fate", "i": 2101}, {"w": "face", "i": 2315}, {"w": "wits", "i": 2331}, {"w": "betrayer", "i": 2409}, {"w": "beauty", "i": 452}, {"w": "care", "i": 498}, {"w": "nurse", "i": 502}, {"w": "father", "i": 774}, {"w": "features", "i": 867}, {"w": "gestures", "i": 870}, {"w": "gestures", "i": 870}, {"w": "hands", "i": 873}, {"w": "affection", "i": 1489}, {"w": "hair", "i": 1711}, {"w": "arms", "i": 1725}, {"w": "back", "i": 1728}, {"w": "face", "i": 2361}], "gender": "she/her"}, "Pandion": {"agent": [{"w": "give", "i": 961}, {"w": "joined", "i": 978}, {"w": "beg", "i": 989}, {"w": "commanded", "i": 1069}, {"w": "kissed", "i": 1073}, {"w": "took", "i": 1091}, {"w": "linked", "i": 1097}, {"w": "asked", "i": 1102}, {"w": "say", "i": 1130}, {"w": "feared", "i": 1137}, {"w": "feared", "i": 1137}, {"w": "won", "i": 1179}, {"w": "carry", "i": 1182}, {"w": "wished", "i": 1187}, {"w": "exults", "i": 1192}, {"w": "wait", "i": 1199}, {"w": "turns", "i": 1206}, {"w": "wishes", "i": 739}], "patient": [{"w": "coaxing", "i": 670}, {"w": "spurs", "i": 721}, {"w": "embraces", "i": 734}, {"w": "promise", "i": 253}], "mod": [{"w": "father", "i": 743}], "poss": [{"w": "age", "i": 1030}, {"w": "daughter", "i": 1071}, {"w": "commands", "i": 1082}, {"w": "daughter", "i": 1115}, {"w": "sobbing", "i": 1125}, {"w": "mind", "i": 1142}, {"w": "passion", "i": 1196}, {"w": "eyes", "i": 1208}, {"w": "country", "i": 1272}, {"w": "shoulders", "i": 668}, {"w": "neck", "i": 717}, {"w": "frenzy", "i": 730}, {"w": "intentions", "i": 749}, {"w": "daughter", "i": 169}, {"w": "daughter", "i": 2783}, {"w": "daughter", "i": 57}, {"w": "trust", "i": 1479}], "gender": "he/him/his"}, "Itys": {"agent": [{"w": "approached", "i": 2650}, {"w": "greeted", "i": 2653}, {"w": "calls", "i": 2760}, {"w": "call", "i": 2768}], "patient": [{"w": "have", "i": 3052}, {"w": "seeking", "i": 3083}], "mod": [{"w": "able", "i": 2741}], "poss": [{"w": "mother", "i": 2655}, {"w": "arms", "i": 2661}, {"w": "father", "i": 3111}, {"w": "endearments", "i": 2745}, {"w": "tongue", "i": 2754}], "gender": "he/him/his"}}
+{
+    "Tereus": {
+        "agent": [
+            {
+                "w": "ordered",
+                "i": 284
+            },
+            {
+                "w": "reached",
+                "i": 295
+            },
+            {
+                "w": "gained",
+                "i": 313
+            },
+            {
+                "w": "started",
+                "i": 343
+            },
+            {
+                "w": "promise",
+                "i": 359
+            },
+            {
+                "w": "entered",
+                "i": 376
+            },
+            {
+                "w": "took",
+                "i": 425
+            },
+            {
+                "w": "stored",
+                "i": 446
+            },
+            {
+                "w": "burnt",
+                "i": 481
+            },
+            {
+                "w": "dare",
+                "i": 539
+            },
+            {
+                "w": "contain",
+                "i": 549
+            },
+            {
+                "w": "suffered",
+                "i": 558
+            },
+            {
+                "w": "returned",
+                "i": 564
+            },
+            {
+                "w": "petitioned",
+                "i": 585
+            },
+            {
+                "w": "make",
+                "i": 594
+            },
+            {
+                "w": "embellished",
+                "i": 604
+            },
+            {
+                "w": "gazes",
+                "i": 695
+            },
+            {
+                "w": "imagining",
+                "i": 700
+            },
+            {
+                "w": "encircling",
+                "i": 713
+            },
+            {
+                "w": "eats",
+                "i": 2992
+            },
+            {
+                "w": "fills",
+                "i": 3004
+            },
+            {
+                "w": "have",
+                "i": 3052
+            },
+            {
+                "w": "ask",
+                "i": 3061
+            },
+            {
+                "w": "looks",
+                "i": 3066
+            },
+            {
+                "w": "calling",
+                "i": 3080
+            },
+            {
+                "w": "seeking",
+                "i": 3083
+            },
+            {
+                "w": "took",
+                "i": 1276
+            },
+            {
+                "w": "locked",
+                "i": 1294
+            },
+            {
+                "w": "locked",
+                "i": 1294
+            },
+            {
+                "w": "overcame",
+                "i": 1327
+            },
+            {
+                "w": "savage",
+                "i": 1456
+            },
+            {
+                "w": "done",
+                "i": 1469
+            },
+            {
+                "w": "care",
+                "i": 1473
+            },
+            {
+                "w": "vows",
+                "i": 1497
+            },
+            {
+                "w": "confounded",
+                "i": 1501
+            },
+            {
+                "w": "traitor",
+                "i": 1538
+            },
+            {
+                "w": "done",
+                "i": 1551
+            },
+            {
+                "w": "pay",
+                "i": 1601
+            },
+            {
+                "w": "done",
+                "i": 1616
+            },
+            {
+                "w": "freed",
+                "i": 1698
+            },
+            {
+                "w": "seizing",
+                "i": 1709
+            },
+            {
+                "w": "gathered",
+                "i": 1712
+            },
+            {
+                "w": "severed",
+                "i": 1749
+            },
+            {
+                "w": "assailed",
+                "i": 1852
+            },
+            {
+                "w": "controlled",
+                "i": 1864
+            },
+            {
+                "w": "returned",
+                "i": 1876
+            },
+            {
+                "w": "told",
+                "i": 1890
+            },
+            {
+                "w": "gave",
+                "i": 1898
+            },
+            {
+                "w": "retired",
+                "i": 852
+            },
+            {
+                "w": "imagined",
+                "i": 876
+            },
+            {
+                "w": "fuelled",
+                "i": 892
+            },
+            {
+                "w": "seen",
+                "i": 884
+            },
+            {
+                "w": "wish",
+                "i": 889
+            },
+            {
+                "w": "pushed",
+                "i": 3144
+            },
+            {
+                "w": "tear",
+                "i": 3176
+            },
+            {
+                "w": "reveal",
+                "i": 3182
+            },
+            {
+                "w": "weeps",
+                "i": 3199
+            },
+            {
+                "w": "calls",
+                "i": 3202
+            },
+            {
+                "w": "desired",
+                "i": 954
+            },
+            {
+                "w": "routed",
+                "i": 3
+            },
+            {
+                "w": "won",
+                "i": 14
+            },
+            {
+                "w": "promise",
+                "i": 253
+            },
+            {
+                "w": "allowed",
+                "i": 276
+            }
+        ],
+        "patient": [
+            {
+                "w": "joined",
+                "i": 134
+            },
+            {
+                "w": "driven",
+                "i": 461
+            },
+            {
+                "w": "commissioned",
+                "i": 614
+            },
+            {
+                "w": "viewed",
+                "i": 638
+            },
+            {
+                "w": "throw",
+                "i": 2519
+            },
+            {
+                "w": "invites",
+                "i": 2948
+            },
+            {
+                "w": "changed",
+                "i": 3305
+            },
+            {
+                "w": "joined",
+                "i": 1517
+            },
+            {
+                "w": "escapes",
+                "i": 1544
+            },
+            {
+                "w": "controlled",
+                "i": 1864
+            },
+            {
+                "w": "disturbed",
+                "i": 858
+            },
+            {
+                "w": "calls",
+                "i": 3202
+            },
+            {
+                "w": "beg",
+                "i": 989
+            }
+        ],
+        "mod": [
+            {
+                "w": "master",
+                "i": 26
+            },
+            {
+                "w": "enough",
+                "i": 1043
+            },
+            {
+                "w": "dutiful",
+                "i": 1058
+            }
+        ],
+        "poss": [
+            {
+                "w": "descent",
+                "i": 37
+            },
+            {
+                "w": "ship",
+                "i": 286
+            },
+            {
+                "w": "father",
+                "i": 317
+            },
+            {
+                "w": "visit",
+                "i": 351
+            },
+            {
+                "w": "request",
+                "i": 356
+            },
+            {
+                "w": "passion",
+                "i": 465
+            },
+            {
+                "w": "region",
+                "i": 475
+            },
+            {
+                "w": "vice",
+                "i": 485
+            },
+            {
+                "w": "nation",
+                "i": 488
+            },
+            {
+                "w": "nation",
+                "i": 488
+            },
+            {
+                "w": "impulse",
+                "i": 492
+            },
+            {
+                "w": "kingdom",
+                "i": 520
+            },
+            {
+                "w": "heart",
+                "i": 554
+            },
+            {
+                "w": "wishes",
+                "i": 573
+            },
+            {
+                "w": "speeches",
+                "i": 606
+            },
+            {
+                "w": "efforts",
+                "i": 634
+            },
+            {
+                "w": "deceit",
+                "i": 644
+            },
+            {
+                "w": "crime",
+                "i": 651
+            },
+            {
+                "w": "request",
+                "i": 657
+            },
+            {
+                "w": "eyes",
+                "i": 2539
+            },
+            {
+                "w": "tongue",
+                "i": 2541
+            },
+            {
+                "w": "spirit",
+                "i": 2558
+            },
+            {
+                "w": "chair",
+                "i": 3001
+            },
+            {
+                "w": "belly",
+                "i": 3006
+            },
+            {
+                "w": "child",
+                "i": 3010
+            },
+            {
+                "w": "cries",
+                "i": 3019
+            },
+            {
+                "w": "grief",
+                "i": 3297
+            },
+            {
+                "w": "desire",
+                "i": 3299
+            },
+            {
+                "w": "intent",
+                "i": 1324
+            },
+            {
+                "w": "vows",
+                "i": 1497
+            },
+            {
+                "w": "fear",
+                "i": 1690
+            },
+            {
+                "w": "side",
+                "i": 1706
+            },
+            {
+                "w": "blade",
+                "i": 1755
+            },
+            {
+                "w": "lust",
+                "i": 1861
+            },
+            {
+                "w": "fires",
+                "i": 895
+            },
+            {
+                "w": "son",
+                "i": 909
+            },
+            {
+                "w": "eyes",
+                "i": 926
+            },
+            {
+                "w": "daughter",
+                "i": 930
+            },
+            {
+                "w": "body",
+                "i": 3179
+            },
+            {
+                "w": "child",
+                "i": 3195
+            },
+            {
+                "w": "son",
+                "i": 3209
+            },
+            {
+                "w": "honour",
+                "i": 970
+            },
+            {
+                "w": "sister",
+                "i": 1046
+            },
+            {
+                "w": "army",
+                "i": 9
+            },
+            {
+                "w": "victory",
+                "i": 20
+            }
+        ],
+        "gender": "he/him/his"
+    },
+    "Procne": {
+        "agent": [
+            {
+                "w": "said",
+                "i": 221
+            },
+            {
+                "w": "see",
+                "i": 279
+            },
+            {
+                "w": "wished",
+                "i": 598
+            },
+            {
+                "w": "commissioned",
+                "i": 614
+            },
+            {
+                "w": "tore",
+                "i": 1903
+            },
+            {
+                "w": "put",
+                "i": 1918
+            },
+            {
+                "w": "embodies",
+                "i": 2266
+            },
+            {
+                "w": "comes",
+                "i": 2272
+            },
+            {
+                "w": "howls",
+                "i": 2283
+            },
+            {
+                "w": "hides",
+                "i": 2313
+            },
+            {
+                "w": "took",
+                "i": 2371
+            },
+            {
+                "w": "uncovered",
+                "i": 2377
+            },
+            {
+                "w": "burned",
+                "i": 2455
+            },
+            {
+                "w": "control",
+                "i": 2460
+            },
+            {
+                "w": "know",
+                "i": 2581
+            },
+            {
+                "w": "going",
+                "i": 2588
+            },
+            {
+                "w": "hide",
+                "i": 3029
+            },
+            {
+                "w": "cries",
+                "i": 3049
+            },
+            {
+                "w": "cries",
+                "i": 3049
+            },
+            {
+                "w": "do",
+                "i": 2605
+            },
+            {
+                "w": "said",
+                "i": 2616
+            },
+            {
+                "w": "began",
+                "i": 2638
+            },
+            {
+                "w": "turned",
+                "i": 2709
+            },
+            {
+                "w": "turned",
+                "i": 2715
+            },
+            {
+                "w": "said",
+                "i": 2734
+            },
+            {
+                "w": "dragged",
+                "i": 2804
+            },
+            {
+                "w": "does",
+                "i": 2811
+            },
+            {
+                "w": "left",
+                "i": 2200
+            },
+            {
+                "w": "prepared",
+                "i": 2204
+            },
+            {
+                "w": "married",
+                "i": 170
+            },
+            {
+                "w": "invites",
+                "i": 2948
+            },
+            {
+                "w": "giving",
+                "i": 2957
+            },
+            {
+                "w": "sends",
+                "i": 2984
+            },
+            {
+                "w": "unrolls",
+                "i": 2091
+            },
+            {
+                "w": "reads",
+                "i": 2096
+            },
+            {
+                "w": "keeps",
+                "i": 2107
+            }
+        ],
+        "patient": [
+            {
+                "w": "joined",
+                "i": 134
+            },
+            {
+                "w": "send",
+                "i": 237
+            },
+            {
+                "w": "greeted",
+                "i": 2653
+            },
+            {
+                "w": "kissed",
+                "i": 2667
+            },
+            {
+                "w": "moved",
+                "i": 2675
+            },
+            {
+                "w": "calls",
+                "i": 2760
+            },
+            {
+                "w": "call",
+                "i": 2768
+            },
+            {
+                "w": "prepared",
+                "i": 2204
+            },
+            {
+                "w": "giving",
+                "i": 54
+            },
+            {
+                "w": "entrusted",
+                "i": 928
+            },
+            {
+                "w": "commanded",
+                "i": 1069
+            },
+            {
+                "w": "kissed",
+                "i": 1073
+            },
+            {
+                "w": "sent",
+                "i": 366
+            }
+        ],
+        "mod": [
+            {
+                "w": "enemy",
+                "i": 1526
+            },
+            {
+                "w": "prepared",
+                "i": 2502
+            },
+            {
+                "w": "ready",
+                "i": 2566
+            }
+        ],
+        "poss": [
+            {
+                "w": "husband",
+                "i": 226
+            },
+            {
+                "w": "sister",
+                "i": 242
+            },
+            {
+                "w": "sister",
+                "i": 247
+            },
+            {
+                "w": "father",
+                "i": 255
+            },
+            {
+                "w": "request",
+                "i": 568
+            },
+            {
+                "w": "anger",
+                "i": 2462
+            },
+            {
+                "w": "sister",
+                "i": 2466
+            },
+            {
+                "w": "exultation",
+                "i": 3032
+            },
+            {
+                "w": "plan",
+                "i": 2643
+            },
+            {
+                "w": "neck",
+                "i": 2664
+            },
+            {
+                "w": "anger",
+                "i": 2678
+            },
+            {
+                "w": "eyes",
+                "i": 2684
+            },
+            {
+                "w": "will",
+                "i": 2694
+            },
+            {
+                "w": "mind",
+                "i": 2701
+            },
+            {
+                "w": "sister",
+                "i": 2720
+            },
+            {
+                "w": "neck",
+                "i": 2886
+            },
+            {
+                "w": "palace",
+                "i": 2202
+            },
+            {
+                "w": "head",
+                "i": 2228
+            },
+            {
+                "w": "side",
+                "i": 2237
+            },
+            {
+                "w": "shoulder",
+                "i": 2245
+            },
+            {
+                "w": "companions",
+                "i": 2256
+            },
+            {
+                "w": "sister",
+                "i": 2301
+            },
+            {
+                "w": "sister",
+                "i": 2384
+            },
+            {
+                "w": "arms",
+                "i": 2391
+            },
+            {
+                "w": "king",
+                "i": 173
+            },
+            {
+                "w": "country",
+                "i": 2969
+            },
+            {
+                "w": "request",
+                "i": 356
+            },
+            {
+                "w": "sister",
+                "i": 2098
+            }
+        ],
+        "gender": "she/her"
+    },
+    "Philomela": {
+        "agent": [
+            {
+                "w": "entered",
+                "i": 376
+            },
+            {
+                "w": "dressed",
+                "i": 378
+            },
+            {
+                "w": "wishes",
+                "i": 655
+            },
+            {
+                "w": "go",
+                "i": 675
+            },
+            {
+                "w": "urges",
+                "i": 682
+            },
+            {
+                "w": "embraces",
+                "i": 734
+            },
+            {
+                "w": "called",
+                "i": 1340
+            },
+            {
+                "w": "quivered",
+                "i": 1367
+            },
+            {
+                "w": "come",
+                "i": 1419
+            },
+            {
+                "w": "dragged",
+                "i": 1425
+            },
+            {
+                "w": "clawed",
+                "i": 1436
+            },
+            {
+                "w": "shouted",
+                "i": 1451
+            },
+            {
+                "w": "tell",
+                "i": 1612
+            },
+            {
+                "w": "get",
+                "i": 1620
+            },
+            {
+                "w": "fill",
+                "i": 1642
+            },
+            {
+                "w": "move",
+                "i": 1649
+            },
+            {
+                "w": "offered",
+                "i": 1742
+            },
+            {
+                "w": "struggled",
+                "i": 1764
+            },
+            {
+                "w": "do",
+                "i": 1971
+            },
+            {
+                "w": "fastens",
+                "i": 2017
+            },
+            {
+                "w": "weaves",
+                "i": 2027
+            },
+            {
+                "w": "entrusts",
+                "i": 2040
+            },
+            {
+                "w": "asks",
+                "i": 2051
+            },
+            {
+                "w": "takes",
+                "i": 2073
+            },
+            {
+                "w": "has",
+                "i": 2129
+            },
+            {
+                "w": "rushes",
+                "i": 2136
+            },
+            {
+                "w": "realised",
+                "i": 2342
+            },
+            {
+                "w": "reached",
+                "i": 2346
+            },
+            {
+                "w": "bear",
+                "i": 2397
+            },
+            {
+                "w": "made",
+                "i": 2444
+            },
+            {
+                "w": "opened",
+                "i": 2901
+            },
+            {
+                "w": "wished",
+                "i": 3122
+            },
+            {
+                "w": "declare",
+                "i": 3134
+            },
+            {
+                "w": "know",
+                "i": 2494
+            },
+            {
+                "w": "come",
+                "i": 248
+            },
+            {
+                "w": "return",
+                "i": 258
+            }
+        ],
+        "patient": [
+            {
+                "w": "see",
+                "i": 279
+            },
+            {
+                "w": "imagining",
+                "i": 700
+            },
+            {
+                "w": "took",
+                "i": 1276
+            },
+            {
+                "w": "locked",
+                "i": 1294
+            },
+            {
+                "w": "overcame",
+                "i": 1327
+            },
+            {
+                "w": "forced",
+                "i": 1507
+            },
+            {
+                "w": "rob",
+                "i": 1530
+            },
+            {
+                "w": "pay",
+                "i": 1601
+            },
+            {
+                "w": "kept",
+                "i": 1634
+            },
+            {
+                "w": "asked",
+                "i": 2071
+            },
+            {
+                "w": "seeing",
+                "i": 2403
+            },
+            {
+                "w": "visit",
+                "i": 677
+            },
+            {
+                "w": "seizes",
+                "i": 2299
+            },
+            {
+                "w": "disguises",
+                "i": 2303
+            },
+            {
+                "w": "dragging",
+                "i": 2321
+            },
+            {
+                "w": "leads",
+                "i": 2333
+            },
+            {
+                "w": "clutched",
+                "i": 2387
+            },
+            {
+                "w": "reproaching",
+                "i": 2464
+            },
+            {
+                "w": "Seeing",
+                "i": 420
+            },
+            {
+                "w": "seduce",
+                "i": 507
+            },
+            {
+                "w": "rape",
+                "i": 523
+            },
+            {
+                "w": "give",
+                "i": 961
+            },
+            {
+                "w": "protect",
+                "i": 992
+            },
+            {
+                "w": "see",
+                "i": 240
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "forearms",
+                "i": 663
+            },
+            {
+                "w": "father",
+                "i": 666
+            },
+            {
+                "w": "sister",
+                "i": 679
+            },
+            {
+                "w": "interest",
+                "i": 688
+            },
+            {
+                "w": "kisses",
+                "i": 708
+            },
+            {
+                "w": "arms",
+                "i": 712
+            },
+            {
+                "w": "father",
+                "i": 715
+            },
+            {
+                "w": "father",
+                "i": 736
+            },
+            {
+                "w": "sister",
+                "i": 1316
+            },
+            {
+                "w": "father",
+                "i": 1352
+            },
+            {
+                "w": "sister",
+                "i": 1355
+            },
+            {
+                "w": "most",
+                "i": 1358
+            },
+            {
+                "w": "senses",
+                "i": 1422
+            },
+            {
+                "w": "hair",
+                "i": 1429
+            },
+            {
+                "w": "arms",
+                "i": 1439
+            },
+            {
+                "w": "breasts",
+                "i": 1445
+            },
+            {
+                "w": "father",
+                "i": 1477
+            },
+            {
+                "w": "sister",
+                "i": 1487
+            },
+            {
+                "w": "virginity",
+                "i": 1493
+            },
+            {
+                "w": "sister",
+                "i": 1511
+            },
+            {
+                "w": "enemy",
+                "i": 1526
+            },
+            {
+                "w": "shade",
+                "i": 1560
+            },
+            {
+                "w": "guilt",
+                "i": 1657
+            },
+            {
+                "w": "throat",
+                "i": 1745
+            },
+            {
+                "w": "tongue",
+                "i": 1751
+            },
+            {
+                "w": "indignation",
+                "i": 1769
+            },
+            {
+                "w": "father",
+                "i": 1774
+            },
+            {
+                "w": "root",
+                "i": 1782
+            },
+            {
+                "w": "body",
+                "i": 1855
+            },
+            {
+                "w": "sister",
+                "i": 1881
+            },
+            {
+                "w": "clothes",
+                "i": 1906
+            },
+            {
+                "w": "shoulders",
+                "i": 1915
+            },
+            {
+                "w": "escape",
+                "i": 1977
+            },
+            {
+                "w": "mouth",
+                "i": 1993
+            },
+            {
+                "w": "thread",
+                "i": 2019
+            },
+            {
+                "w": "lips",
+                "i": 2113
+            },
+            {
+                "w": "tongue",
+                "i": 2116
+            },
+            {
+                "w": "indignation",
+                "i": 2124
+            },
+            {
+                "w": "mind",
+                "i": 2148
+            },
+            {
+                "w": "eyes",
+                "i": 2401
+            },
+            {
+                "w": "betrayer",
+                "i": 2409
+            },
+            {
+                "w": "face",
+                "i": 2413
+            },
+            {
+                "w": "shame",
+                "i": 2434
+            },
+            {
+                "w": "hands",
+                "i": 2448
+            },
+            {
+                "w": "hair",
+                "i": 3092
+            },
+            {
+                "w": "exultation",
+                "i": 3136
+            },
+            {
+                "w": "throat",
+                "i": 3273
+            },
+            {
+                "w": "fate",
+                "i": 2101
+            },
+            {
+                "w": "face",
+                "i": 2315
+            },
+            {
+                "w": "wits",
+                "i": 2331
+            },
+            {
+                "w": "betrayer",
+                "i": 2409
+            },
+            {
+                "w": "beauty",
+                "i": 452
+            },
+            {
+                "w": "care",
+                "i": 498
+            },
+            {
+                "w": "nurse",
+                "i": 502
+            },
+            {
+                "w": "father",
+                "i": 774
+            },
+            {
+                "w": "features",
+                "i": 867
+            },
+            {
+                "w": "gestures",
+                "i": 870
+            },
+            {
+                "w": "gestures",
+                "i": 870
+            },
+            {
+                "w": "hands",
+                "i": 873
+            },
+            {
+                "w": "affection",
+                "i": 1489
+            },
+            {
+                "w": "hair",
+                "i": 1711
+            },
+            {
+                "w": "arms",
+                "i": 1725
+            },
+            {
+                "w": "back",
+                "i": 1728
+            },
+            {
+                "w": "face",
+                "i": 2361
+            }
+        ],
+        "gender": "she/her"
+    },
+    "Pandion": {
+        "agent": [
+            {
+                "w": "give",
+                "i": 961
+            },
+            {
+                "w": "joined",
+                "i": 978
+            },
+            {
+                "w": "beg",
+                "i": 989
+            },
+            {
+                "w": "commanded",
+                "i": 1069
+            },
+            {
+                "w": "kissed",
+                "i": 1073
+            },
+            {
+                "w": "took",
+                "i": 1091
+            },
+            {
+                "w": "linked",
+                "i": 1097
+            },
+            {
+                "w": "asked",
+                "i": 1102
+            },
+            {
+                "w": "say",
+                "i": 1130
+            },
+            {
+                "w": "feared",
+                "i": 1137
+            },
+            {
+                "w": "feared",
+                "i": 1137
+            },
+            {
+                "w": "won",
+                "i": 1179
+            },
+            {
+                "w": "carry",
+                "i": 1182
+            },
+            {
+                "w": "wished",
+                "i": 1187
+            },
+            {
+                "w": "exults",
+                "i": 1192
+            },
+            {
+                "w": "wait",
+                "i": 1199
+            },
+            {
+                "w": "turns",
+                "i": 1206
+            },
+            {
+                "w": "wishes",
+                "i": 739
+            }
+        ],
+        "patient": [
+            {
+                "w": "coaxing",
+                "i": 670
+            },
+            {
+                "w": "spurs",
+                "i": 721
+            },
+            {
+                "w": "embraces",
+                "i": 734
+            },
+            {
+                "w": "promise",
+                "i": 253
+            }
+        ],
+        "mod": [
+            {
+                "w": "father",
+                "i": 743
+            }
+        ],
+        "poss": [
+            {
+                "w": "age",
+                "i": 1030
+            },
+            {
+                "w": "daughter",
+                "i": 1071
+            },
+            {
+                "w": "commands",
+                "i": 1082
+            },
+            {
+                "w": "daughter",
+                "i": 1115
+            },
+            {
+                "w": "sobbing",
+                "i": 1125
+            },
+            {
+                "w": "mind",
+                "i": 1142
+            },
+            {
+                "w": "passion",
+                "i": 1196
+            },
+            {
+                "w": "eyes",
+                "i": 1208
+            },
+            {
+                "w": "country",
+                "i": 1272
+            },
+            {
+                "w": "shoulders",
+                "i": 668
+            },
+            {
+                "w": "neck",
+                "i": 717
+            },
+            {
+                "w": "frenzy",
+                "i": 730
+            },
+            {
+                "w": "intentions",
+                "i": 749
+            },
+            {
+                "w": "daughter",
+                "i": 169
+            },
+            {
+                "w": "daughter",
+                "i": 2783
+            },
+            {
+                "w": "daughter",
+                "i": 57
+            },
+            {
+                "w": "trust",
+                "i": 1479
+            }
+        ],
+        "gender": "he/him/his"
+    },
+    "Itys": {
+        "agent": [
+            {
+                "w": "approached",
+                "i": 2650
+            },
+            {
+                "w": "greeted",
+                "i": 2653
+            },
+            {
+                "w": "calls",
+                "i": 2760
+            },
+            {
+                "w": "call",
+                "i": 2768
+            }
+        ],
+        "patient": [
+            {
+                "w": "have",
+                "i": 3052
+            },
+            {
+                "w": "seeking",
+                "i": 3083
+            }
+        ],
+        "mod": [
+            {
+                "w": "able",
+                "i": 2741
+            }
+        ],
+        "poss": [
+            {
+                "w": "mother",
+                "i": 2655
+            },
+            {
+                "w": "arms",
+                "i": 2661
+            },
+            {
+                "w": "father",
+                "i": 3111
+            },
+            {
+                "w": "endearments",
+                "i": 2745
+            },
+            {
+                "w": "tongue",
+                "i": 2754
+            }
+        ],
+        "gender": "he/him/his"
+    }
+}

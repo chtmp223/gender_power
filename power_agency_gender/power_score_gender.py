@@ -1,5 +1,6 @@
 import json
 import pandas as pd
+import numpy as np
 
 import nltk
 nltk.download('wordnet')
@@ -89,13 +90,16 @@ def get_character_scores(translation):
 
 
 
-def get_gender_sum(char_scores):
-    # Get raw sums of scores based on gender
-    gender_sum = char_scores.groupby(['gender']).sum()
-    gender_sum.drop(columns="character", inplace = True)
+def get_gender_statistics(char_scores):
+    gender_sum = char_scores.groupby('gender').agg(power_sum=('power_score', 'sum'), agency_sum=('agency_score', 'sum'), count=('character', 'nunique'), power_mean=('power_score', 'mean'), agency_mean=('agency_score', 'mean'))
     return gender_sum
 
-
+def get_top_power_agency(char_scores):
+    top_power = char_scores.sort_values(by=['power_score'], ascending = False)
+    top_power = top_power.head(10)
+    top_agency = char_scores.sort_values(by=['agency_score'], ascending = False)
+    top_agency = top_agency.head(10)
+    return top_power, top_agency
 
 def main():
 
@@ -103,11 +107,14 @@ def main():
 
     for translation in translations:
         char_scores = get_character_scores(translation)
-        char_scores.to_csv(f"./power_agency_gender/{translation}_characters_scores.csv")
+        char_scores.to_csv(f"./power_agency_gender/{translation}/characters_scores.csv")
 
-        gender_sum = get_gender_sum(char_scores)
-        gender_sum.to_csv(f"./power_agency_gender/{translation}_gender_sum.csv")
+        gender_stats = get_gender_statistics(char_scores)
+        gender_stats.to_csv(f"./power_agency_gender/{translation}/gender_stats.csv")
 
+        top_power, top_agency = get_top_power_agency(char_scores)
+        top_power.to_csv(f"./power_agency_gender/{translation}/top_power.csv")
+        top_agency.to_csv(f"./power_agency_gender/{translation}/top_agency.csv")
 
 if __name__ == "__main__":
     main()

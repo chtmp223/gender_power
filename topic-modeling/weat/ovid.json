@@ -1,0 +1,42 @@
+{
+    "Ovid": {
+        "method": "weat_single",
+        "attributes": "Females attributes vs Male attributes",
+        "targets": "Topic 1",
+        "X_key": "Topic 1",
+        "A_key": "Female attributes",
+        "B_key": "Male attributes",
+        "Female attributes": [
+            "female",
+            "woman",
+            "girl",
+            "sister",
+            "she",
+            "her",
+            "hers",
+            "daughter"
+        ],
+        "Male attributes": [
+            "male",
+            "man",
+            "boy",
+            "brother",
+            "he",
+            "him",
+            "his",
+            "son"
+        ],
+        "Topic 1": [
+            "father",
+            "mother",
+            "said",
+            "love",
+            "daughter",
+            "words",
+            "son",
+            "see",
+            "girl",
+            "god"
+        ]
+    }
+}

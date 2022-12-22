@@ -15,3 +15,6 @@ Note that the Tereus/Philomela output is manually edited to be more accurate. Th
 - `topic-modeling/lda-train.py`: training file for LDA topic model. From the top-level folder, run `python ./topic-modeling/lda-train.py ovid custom`. This will run topic modeling on our dataset with a custom stopword list. 
 - `topic-modeling/lda-prep.ipynb`: segment our dataset into documents for training. 
 - `topic-modeling/lda-analysis.ipynb`: analyses on LDA results
+
+## Running Word Cloud :
+- `booknlp_output/entire_wordcloud.ipynb`: analysis of word clouds on the entire text
